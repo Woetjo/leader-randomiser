@@ -1,0 +1,104 @@
+<div class="py-5">
+  <h1>DVG Leader series - squad randomiser</h1>
+  <p class="lead">Randomise your Leader campaigns</p>
+</div>
+<div class="row g-5">
+  <div class="col-md-7 col-lg-8">
+    <h2>Randomised squad for {{ state.selectedGame()?.Name }} </h2>
+    <table>
+      <tr>
+        <th class="small text-muted pr-2" scope="row">Campaign:&nbsp;</th>
+        <td>{{ state.selectedCampaign()?.Name }} ({{ state.selectedCampaign()?.Year }})</td>
+      </tr>
+      <tr>
+        <th class="small text-muted pr-2" scope="row">Difficulty:&nbsp;</th>
+        <td>{{ state.selectedCampaign()?.DifficultyDescription }}</td>
+      </tr>
+      <tr>
+        <th class="small text-muted pr-2" scope="row">Campaign length:&nbsp;</th>
+        <td>
+          {{ state.selectedCampaignOptionItem()?.Timespan }} ({{ state.selectedCampaignOptionItem()?.LengthDescription }})
+        </td>
+      </tr>
+      <tr>
+        <th class="small text-muted pr-2" scope="row">Special weapons:&nbsp;</th>
+        <td>
+          {{ showList(state.selectedCampaign()?.SpecialWeapons) }}
+        </td>
+      </tr>
+    </table>
+    <div class="pb-2"></div>
+    <hr>
+    <table>
+<!--      newbie-->
+      <tr *ngFor="let newbie of randomiserResult.pilots.Newbie; index as i">
+        <th class="small text-muted pr-2" scope="row"><span *ngIf="i==0">Newbie:&nbsp;</span></th>
+        <td><span class="fw-lighter">Pilot: </span>{{newbie.pilot?.Name}}<span class="p-1"></span></td>
+        <td><span class="fw-lighter">Aircraft: </span>{{ newbie.pilot?.Aircraft}}<span class="p-1"></span></td>
+        <td *ngIf="getAircraftCost(newbie.aircraftType)"><span class="fw-lighter">SO points: </span>{{ getAircraftCost(newbie.aircraftType)}}<span class="p-1"></span></td>
+      </tr>
+<!--      green-->
+      <tr *ngFor="let green of randomiserResult.pilots.Green; index as i">
+        <th class="small text-muted pr-2" scope="row"><span *ngIf="i==0">Green:&nbsp;</span></th>
+        <td><span class="fw-lighter">Pilot: </span>{{green.pilot?.Name}}<span class="p-1"></span></td>
+        <td><span class="fw-lighter">Aircraft: </span>{{ green.pilot?.Aircraft}}<span class="p-1"></span></td>
+        <td *ngIf="getAircraftCost(green.aircraftType)"><span class="fw-lighter">SO points: </span>{{ getAircraftCost(green.aircraftType)}}<span class="p-1"></span></td>
+
+      </tr>
+<!--      average-->
+      <tr *ngFor="let average of randomiserResult.pilots.Average; index as i">
+        <th class="small text-muted pr-2" scope="row"><span *ngIf="i==0">Average:&nbsp;</span></th>
+        <td><span class="fw-lighter">Pilot: </span>{{average.pilot?.Name}}<span class="p-1"></span></td>
+        <td><span class="fw-lighter">Aircraft: </span>{{ average.pilot?.Aircraft}}<span class="p-1"></span></td>
+        <td *ngIf="getAircraftCost(average.aircraftType)"><span class="fw-lighter">SO points: </span>{{ getAircraftCost(average.aircraftType)}}<span class="p-1"></span></td>
+
+      </tr>
+<!--      skilled-->
+      <tr *ngFor="let skilled of randomiserResult.pilots.Skilled; index as i">
+        <th class="small text-muted pr-2" scope="row"><span *ngIf="i==0">Skilled:&nbsp;</span></th>
+        <td><span class="fw-lighter">Pilot: </span>{{skilled.pilot?.Name}}<span class="p-1"></span></td>
+        <td><span class="fw-lighter">Aircraft: </span>{{ skilled.pilot?.Aircraft}}<span class="p-1"></span></td>
+        <td *ngIf="getAircraftCost(skilled.aircraftType)"><span class="fw-lighter">SO points: </span>{{ getAircraftCost(skilled.aircraftType)}}<span class="p-1"></span></td>
+      </tr>
+    </table>
+    <div class="pb-2"></div>
+    <hr>
+    <table>
+      <tr>
+        <th class="small text-muted pr-2" scope="row">Initial SO points:&nbsp;</th>
+        <td>{{ state.selectedCampaignOptionItem()?.SOPoints }}</td>
+      </tr>
+      <tr>
+        <th class="small text-muted pr-2" scope="row">Aircraft Bonus SO points:&nbsp;</th>
+        <td>{{ randomiserResult.so.aircraft }}</td>
+      </tr>
+      <tr>
+        <th class="small text-muted pr-2" scope="row">Total:&nbsp;</th>
+        <td>
+          {{ calcTotalSoPoints() }}
+        </td>
+      </tr>
+    </table>
+
+<!--    <p>{{ randomiserResult.pilots.Newbie | json }}</p>-->
+<!--    <p>{{ randomiserResult.pilots.Green | json }}</p>-->
+<!--    <p>{{ randomiserResult.pilots.Average | json }}</p>-->
+<!--    <p>{{ randomiserResult.pilots.Skilled | json }}</p>-->
+<!--    <p>{{ randomiserResult.so.campaign | json }}</p>-->
+<!--    <p>{{ randomiserResult.so.aircraft | json }}</p>-->
+
+
+
+    <div class="mt-3">
+      <button type="button" class="btn btn-primary" (click)="randomise()">Reroll</button>
+      <span class="p-1"></span>
+      <button type="button" class="btn btn-secondary" (click)="backToSelect()">Start over</button>
+    </div>
+    <div class="pb-5"></div>
+
+  </div>
+  <div class="col-md-5 col-lg-4 order-md-last">
+    <app-sidebar></app-sidebar>
+    <div class="pb-3"></div>
+  </div>
+</div>
