@@ -36,7 +36,8 @@ export class ResultComponent implements OnInit {
       Newbie: [],
       Green: [],
       Average: [],
-      Skilled: []
+      Skilled: [],
+      Veteran: []
     },
     so: {
       campaign: this.state.selectedCampaignOptionItem()?.SOPoints ?? 0,
@@ -75,6 +76,7 @@ export class ResultComponent implements OnInit {
     this.randomiseSquadronForRank('Green');
     this.randomiseSquadronForRank('Average');
     this.randomiseSquadronForRank('Skilled');
+    this.randomiseSquadronForRank('Veteran');
     // There is never an Ace in a starting squadron
   }
 
@@ -95,6 +97,7 @@ export class ResultComponent implements OnInit {
     this.randomiserResult.so.aircraft -= this.calculatePilotSoPointsForRank('Green');
     this.randomiserResult.so.aircraft -= this.calculatePilotSoPointsForRank('Average');
     this.randomiserResult.so.aircraft -= this.calculatePilotSoPointsForRank('Skilled');
+    this.randomiserResult.so.aircraft -= this.calculatePilotSoPointsForRank('Veteran');
   }
 
   private calculatePilotSoPointsForRank(rankDescription: string): number {
@@ -116,7 +119,8 @@ export class ResultComponent implements OnInit {
         Newbie: [],
         Green: [],
         Average: [],
-        Skilled: []
+        Skilled: [],
+        Veteran: []
       },
       so: {
         campaign: this.state.selectedCampaignOptionItem()?.SOPoints ?? 0,
