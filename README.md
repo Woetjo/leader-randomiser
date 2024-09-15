@@ -1,2 +1,2 @@
 # leader-randomiser
-Randomise your Leader campaigns
+Randomise your Leader campaigns!
