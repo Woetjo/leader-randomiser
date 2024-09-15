@@ -5,8 +5,7 @@ import {StateService} from "./services/state.service";
 import {inject} from "@angular/core";
 
 export const routes: Routes = [
-  { path: '', redirectTo: '/select', pathMatch: 'full' },
-  { path: 'select', component: SelectComponent },
+  { path: '', component: SelectComponent },
   {
     path: 'result',
     component: ResultComponent,
@@ -16,7 +15,7 @@ export const routes: Routes = [
       if (state.selectedCampaign() && state.selectedCampaignOptionItem()) {
         return true;
       } else {
-        router.navigate(['/select']);
+        router.navigate(['/']);
         return false;
       }
     }]

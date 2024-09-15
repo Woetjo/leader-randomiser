@@ -127,7 +127,7 @@ export class ResultComponent implements OnInit {
 
   backToSelect() {
     this.state.reset();
-    this.router.navigateByUrl('/select');
+    this.router.navigateByUrl('/');
   }
 
   getAircraftCost(aircraftType: AircraftType | undefined) {
