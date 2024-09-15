@@ -43,7 +43,6 @@
         <td><span class="fw-lighter">Pilot: </span>{{green.pilot?.Name}}<span class="p-1"></span></td>
         <td><span class="fw-lighter">Aircraft: </span>{{ green.pilot?.Aircraft}}<span class="p-1"></span></td>
         <td *ngIf="getAircraftCost(green.aircraftType)"><span class="fw-lighter">SO points: </span>{{ getAircraftCost(green.aircraftType)}}<span class="p-1"></span></td>
-
       </tr>
 <!--      average-->
       <tr *ngFor="let average of randomiserResult.pilots.Average; index as i">
@@ -51,7 +50,6 @@
         <td><span class="fw-lighter">Pilot: </span>{{average.pilot?.Name}}<span class="p-1"></span></td>
         <td><span class="fw-lighter">Aircraft: </span>{{ average.pilot?.Aircraft}}<span class="p-1"></span></td>
         <td *ngIf="getAircraftCost(average.aircraftType)"><span class="fw-lighter">SO points: </span>{{ getAircraftCost(average.aircraftType)}}<span class="p-1"></span></td>
-
       </tr>
 <!--      skilled-->
       <tr *ngFor="let skilled of randomiserResult.pilots.Skilled; index as i">
@@ -59,6 +57,13 @@
         <td><span class="fw-lighter">Pilot: </span>{{skilled.pilot?.Name}}<span class="p-1"></span></td>
         <td><span class="fw-lighter">Aircraft: </span>{{ skilled.pilot?.Aircraft}}<span class="p-1"></span></td>
         <td *ngIf="getAircraftCost(skilled.aircraftType)"><span class="fw-lighter">SO points: </span>{{ getAircraftCost(skilled.aircraftType)}}<span class="p-1"></span></td>
+      </tr>
+      <!--      veteran-->
+      <tr *ngFor="let veteran of randomiserResult.pilots.Veteran; index as i">
+        <th class="small text-muted pr-2" scope="row"><span *ngIf="i==0">Veteran:&nbsp;</span></th>
+        <td><span class="fw-lighter">Pilot: </span>{{veteran.pilot?.Name}}<span class="p-1"></span></td>
+        <td><span class="fw-lighter">Aircraft: </span>{{ veteran.pilot?.Aircraft}}<span class="p-1"></span></td>
+        <td *ngIf="getAircraftCost(veteran.aircraftType)"><span class="fw-lighter">SO points: </span>{{ getAircraftCost(veteran.aircraftType)}}<span class="p-1"></span></td>
       </tr>
     </table>
     <div class="pb-2"></div>

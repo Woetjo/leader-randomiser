@@ -6,6 +6,7 @@ export interface RandomiserResult {
     Green: AvailablePilotInSelectedCampaign[];
     Average: AvailablePilotInSelectedCampaign[];
     Skilled: AvailablePilotInSelectedCampaign[];
+    Veteran: AvailablePilotInSelectedCampaign[];
   }
   so: {
     campaign: number;
