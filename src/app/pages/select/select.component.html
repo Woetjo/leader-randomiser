@@ -1,0 +1,93 @@
+<div class="py-5">
+  <h1>DVG Leader series - squad randomiser</h1>
+  <p class="lead">Randomise your Leader campaigns</p>
+  <div class="col">
+    <div ngbDropdown class="d-inline-block">
+      <button type="button" class="btn btn-outline-primary" id="dropdownBasic1" ngbDropdownToggle>
+        Choose game
+      </button>
+      <div ngbDropdownMenu aria-labelledby="dropdownBasic1">
+        <button ngbDropdownItem *ngFor="let game of Games" (click)="chooseGame(game)">{{ game.name }}</button>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row g-5">
+  <div class="col-md-7 col-lg-8">
+    <ng-container *ngIf="state.selectedGame()">
+      <h2>{{ state.selectedGame()?.Name }}</h2>
+      <form [formGroup]="leaderForm">
+        <div class="mb-3">
+          <label>Select campaign:</label>
+          <select class="form-select w-50" aria-label="Select campaign" formControlName="campaign">
+            <option *ngFor="let campaign of state.selectedGame()?.Campaigns" [ngValue]="campaign">{{ campaign.Name }}
+              ({{ campaign.DifficultyDescription }})
+            </option>
+          </select>
+        </div>
+        <div class="mb-3" *ngIf="state.selectedCampaign()">
+          <table>
+            <tr>
+              <th class="small text-muted pr-2" scope="row">Year:&nbsp;</th>
+              <td>{{ state.selectedCampaign()?.Year }}</td>
+            </tr>
+            <tr>
+              <th class="small text-muted pr-2" scope="row">Difficulty:&nbsp;</th>
+              <td>{{ state.selectedCampaign()?.DifficultyDescription }}</td>
+            </tr>
+            <tr>
+              <th class="small text-muted pr-2" scope="row">Special weapons:&nbsp;</th>
+              <td>
+                {{ showList(state.selectedCampaign()?.SpecialWeapons) }}
+              </td>
+            </tr>
+            <tr>
+              <th class="small text-muted pr-2" scope="row">Available Aircraft:&nbsp;</th>
+              <td>{{ showList(state.selectedCampaign()?.AvailableAircraft) }}</td>
+            </tr>
+          </table>
+        </div>
+
+        <div class="mb-3" *ngIf="state.selectedCampaign()">
+          <label>Select campaign length:</label>
+          <select class="form-select w-25" aria-label="Select campaign" formControlName="campaignOptionItem">
+            <option *ngFor="let option of state.selectedCampaign()?.CampaignOptions"
+                    [ngValue]="option">{{ option.LengthDescription }}
+            </option>
+          </select>
+
+        </div>
+        <div class="mb-3" *ngIf="state.selectedCampaignOptionItem()">
+          <table>
+            <tr>
+              <th class="small text-muted pr-2" scope="row">Timespan:&nbsp;</th>
+              <td>{{ state.selectedCampaignOptionItem()?.Timespan }}</td>
+            </tr>
+            <tr>
+              <th class="small text-muted pr-2" scope="row">SO Points:&nbsp;</th>
+              <td>{{ state.selectedCampaignOptionItem()?.SOPoints }}</td>
+            </tr>
+            <tr>
+              <th class="small text-muted pr-2" scope="row">Squadron:&nbsp;</th>
+              <td>{{ showSquadronMakeup(state.selectedCampaignOptionItem()?.SquadronMakeup) }}</td>
+            </tr>
+
+          </table>
+          <div class="mt-3">
+            <button type="button" class="btn btn-primary" (click)="submitForm()">Randomize squad</button>
+          </div>
+        </div>
+        <div class="pb-5"></div>
+      </form>
+    </ng-container>
+  </div>
+  <div class="col-md-5 col-lg-4 order-md-last">
+    <app-sidebar></app-sidebar>
+    <div class="pb-3"></div>
+  </div>
+</div>
+
+
+
+
+

@@ -1,0 +1,2060 @@
+{
+  "Name": "Phantom Leader",
+  "Campaigns": [
+    {
+      "Name": "Cuban Missile Crisis - USAF",
+      "Year": 1962,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "F-4 (USAF)",
+        "EB-66",
+        "F-5",
+        "F-100",
+        "F-102",
+        "F-104",
+        "F-105",
+        "F-101"
+      ],
+      "SpecialWeapons": [
+        "AGM-12 Bullpup",
+        "BLU-1",
+        "CBU"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "3 Days",
+          "SOPoints": 9,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 19,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "9 Days",
+          "SOPoints": 29,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Linebacker - USAF",
+      "Year": 1972,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "F-4 (USAF)",
+        "EB-66",
+        "F-5",
+        "F-100",
+        "F-102",
+        "F-104",
+        "F-105",
+        "F-101"
+      ],
+      "SpecialWeapons": [
+        "AGM-12 Bullpup",
+        "AGM-62 Walleye",
+        "GBU-10 Smart Bomb",
+        "GBU-12 Smart Bomb"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "4 Days",
+          "SOPoints": 16,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "8 Days",
+          "SOPoints": 32,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "12 Days",
+          "SOPoints": 48,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Rolling Thunder - USAF",
+      "Year": 1967,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "F-4 (USAF)",
+        "EB-66",
+        "F-5",
+        "F-100",
+        "F-102",
+        "F-104",
+        "F-105",
+        "F-105 WW"
+      ],
+      "SpecialWeapons": [
+        "AGM-12 Bullpup",
+        "AGM-62 Walleye",
+        "GBU-10 Smart Bomb",
+        "GBU-12 Smart Bomb"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "4 Days",
+          "SOPoints": 16,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "7 Days",
+          "SOPoints": 28,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "11 Days",
+          "SOPoints": 54,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "War in the South - USAF",
+      "Year": 1965,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "F-4 (USAF)",
+        "EB-66",
+        "F-5",
+        "F-100",
+        "F-102",
+        "F-104",
+        "F-105",
+        "F-101"
+      ],
+      "SpecialWeapons": [
+        "AGM-12 Bullpup",
+        "BLU-1",
+        "CBU"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "2 Days",
+          "SOPoints": 4,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "4 Days",
+          "SOPoints": 8,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "7 Days",
+          "SOPoints": 12,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Going Downtown - USAF",
+      "Year": 1965,
+      "Difficulty": 3,
+      "DifficultyDescription": "Skilled",
+      "AvailableAircraft": [
+        "F-4 (USAF)",
+        "EB-66",
+        "F-5",
+        "F-100",
+        "F-102",
+        "F-104",
+        "F-106",
+        "F-101"
+      ],
+      "SpecialWeapons": [
+        "AGM-12 Bullpup",
+        "BLU-1",
+        "CBU"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "3 Days",
+          "SOPoints": 4,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 8,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "9 Days",
+          "SOPoints": 12,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Cuban Missile Crisis - USN",
+      "Year": 1962,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "F-4 (USN)",
+        "A-4",
+        "F-8",
+        "A-3",
+        "E-1",
+        "E-2"
+      ],
+      "SpecialWeapons": [
+        "AGM-12 Bullpup",
+        "AGM-45 Shrike",
+        "BLU-1",
+        "CBU"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "3 Days",
+          "SOPoints": 5,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 11,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "9 Days",
+          "SOPoints": 17,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Linebacker - USN",
+      "Year": 1972,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "F-4 (USN)",
+        "A-4",
+        "F-8",
+        "A-3",
+        "E-1",
+        "E-2",
+        "E-6",
+        "EA-6A",
+        "A-7 (USN)"
+      ],
+      "SpecialWeapons": [
+        "AGM-12 Bullpup",
+        "AGM-62 Walleye",
+        "GBU-10 Smart Bomb",
+        "GBU-12 Smart Bomb"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "4 Days",
+          "SOPoints": 16,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "8 Days",
+          "SOPoints": 32,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "12 Days",
+          "SOPoints": 48,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Rolling Thunder - USN",
+      "Year": 1967,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "F-4 (USN)",
+        "A-4",
+        "F-8",
+        "A-3",
+        "E-1",
+        "E-2",
+        "E-6",
+        "EA-6A",
+        "A-7 (USN)"
+      ],
+      "SpecialWeapons": [
+        "AGM-12 Bullpup",
+        "AGM-62 Walleye",
+        "GBU-10 Smart Bomb",
+        "GBU-12 Smart Bomb"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "4 Days",
+          "SOPoints": 16,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "7 Days",
+          "SOPoints": 28,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "11 Days",
+          "SOPoints": 54,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "War in the South - USN",
+      "Year": 1965,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "F-4 (USN)",
+        "A-4",
+        "F-8",
+        "A-3",
+        "E-1",
+        "E-2",
+        "A-6"
+      ],
+      "SpecialWeapons": [
+        "AGM-12 Bullpup",
+        "BLU-1",
+        "CBU"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "2 Days",
+          "SOPoints": 3,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "4 Days",
+          "SOPoints": 6,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "7 Days",
+          "SOPoints": 13,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Going Downtown - USN",
+      "Year": 1965,
+      "Difficulty": 3,
+      "DifficultyDescription": "Skilled",
+      "AvailableAircraft": [
+        "F-4 (USN)",
+        "EB-66",
+        "F-5",
+        "F-100",
+        "F-102",
+        "F-104",
+        "F-105",
+        "F-101"
+      ],
+      "SpecialWeapons": [
+        "AGM-12 Bullpup",
+        "BLU-1",
+        "CBU"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "3 Days",
+          "SOPoints": 4,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 8,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "9 Days",
+          "SOPoints": 12,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Hunting Weasels - USAF",
+      "Year": 1972,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "F-105",
+        "F-105 WW"
+      ],
+      "SpecialWeapons": [
+        "AGM-12 Bullpup",
+        "AGM-62 Walleye"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 19,
+          "SquadronMakeup": [
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 3
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Milk Run 66 - USN",
+      "Year": 1966,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "A-4",
+        "F-4 (USN)"
+      ],
+      "SpecialWeapons": [
+        "AGM-12 Bullpup"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "7 Days",
+          "SOPoints": 40,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Marine Operations - USMC",
+      "Year": 1966,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "A-4",
+        "F-4 (USN)"
+      ],
+      "SpecialWeapons": [
+        "BLU-1",
+        "CBU"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "3 Days",
+          "SOPoints": 3,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 12,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 9,
+          "LengthDescription": "Long",
+          "Timespan": "9 Days",
+          "SOPoints": 18,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "AircraftTypes": [
+    {
+      "Designation": "A-1",
+      "Name": "Skyraider",
+      "Type": "Attack",
+      "StartYear": 1945,
+      "EndYear": 1985,
+      "Cost": {
+        "short": -3,
+        "medium": -6,
+        "long": -9
+      }
+    },
+    {
+      "Designation": "A-37",
+      "Name": "Dragonfly",
+      "Type": "Attack",
+      "StartYear": 1962,
+      "EndYear": 1990,
+      "Cost": {
+        "short": -4,
+        "medium": -8,
+        "long": -12
+      }
+    },
+    {
+      "Designation": "A-3",
+      "Name": "Skywarrior",
+      "Type": "Bomber",
+      "StartYear": 1956,
+      "EndYear": 1991,
+      "Cost": {
+        "short": -3,
+        "medium": -6,
+        "long": -9
+      }
+    },
+    {
+      "Designation": "A-4",
+      "Name": "Skyhawk",
+      "Type": "Attack",
+      "StartYear": 1956,
+      "EndYear": 2003,
+      "Cost": {
+        "short": -3,
+        "medium": -6,
+        "long": -9
+      }
+    },
+    {
+      "Designation": "A-5",
+      "Name": "Vigilante",
+      "Type": "Bomber",
+      "StartYear": 1961,
+      "EndYear": 1979,
+      "Cost": {
+        "short": -1,
+        "medium": -2,
+        "long": -3
+      }
+    },
+    {
+      "Designation": "A-6",
+      "Name": "Intruder",
+      "Type": "Attack",
+      "StartYear": 1963,
+      "EndYear": 1997
+    },
+    {
+      "Designation": "A-7 (USAF)",
+      "Name": "Corsair II",
+      "Type": "Attack",
+      "StartYear": 1972,
+      "EndYear": 1991
+    },
+    {
+      "Designation": "A-7 (USN)",
+      "Name": "Corsair II",
+      "Type": "Attack",
+      "StartYear": 1967,
+      "EndYear": 1993
+    },
+    {
+      "Designation": "F-4 (USAF)",
+      "Name": "Phantom II",
+      "Type": "Fighter",
+      "StartYear": 1962,
+      "EndYear": 1990
+    },
+    {
+      "Designation": "F-4 (USN)",
+      "Name": "Phantom II",
+      "Type": "Fighter",
+      "StartYear": 1961,
+      "EndYear": 1986
+    },
+    {
+      "Designation": "E-1",
+      "Name": "Tracer",
+      "Type": "AWACS",
+      "StartYear": 1956,
+      "EndYear": 1977
+    },
+    {
+      "Designation": "E-2",
+      "Name": "Hawkeye",
+      "Type": "AWACS",
+      "StartYear": 1961,
+      "EndYear": 1986,
+      "Cost": {
+        "short": 2,
+        "medium": 4,
+        "long": 6
+      }
+    },
+    {
+      "Designation": "EB-66",
+      "Name": "Destroyer",
+      "Type": "Electronic Warfare",
+      "StartYear": 1956,
+      "EndYear": 1973
+    },
+    {
+      "Designation": "EA-6A",
+      "Name": "Electric Intruder",
+      "Type": "Electronic Warfare",
+      "StartYear": 1966,
+      "EndYear": 1973
+    },
+    {
+      "Designation": "F-100",
+      "Name": "Super Sabre",
+      "Type": "Fighter",
+      "StartYear": 1954,
+      "EndYear": 1979,
+      "Cost": {
+        "short": -3,
+        "medium": -6,
+        "long": -9
+      }
+    },
+    {
+      "Designation": "F-101",
+      "Name": "Voodoo",
+      "Type": "Fighter",
+      "StartYear": 1957,
+      "EndYear": 1966,
+      "Cost": {
+        "short": -5,
+        "medium": -10,
+        "long": -15
+      }
+    },
+    {
+      "Designation": "F-102",
+      "Name": "Delta Dagger",
+      "Type": "Fighter",
+      "StartYear": 1956,
+      "EndYear": 1976,
+      "Cost": {
+        "short": -4,
+        "medium": -8,
+        "long": -12
+      }
+    },
+    {
+      "Designation": "F-104",
+      "Name": "Starfighter",
+      "Type": "Fighter",
+      "StartYear": 1954,
+      "EndYear": 1975,
+      "Cost": {
+        "short": -4,
+        "medium": -8,
+        "long": -12
+      }
+    },
+    {
+      "Designation": "F-105",
+      "Name": "Thunderchief",
+      "Type": "Fighter",
+      "StartYear": 1958,
+      "EndYear": 1984,
+      "Cost": {
+        "short": -2,
+        "medium": -4,
+        "long": -6
+      }
+    },
+    {
+      "Designation": "F-105 WW",
+      "Name": "Wild Weasel",
+      "Type": "Strike",
+      "StartYear": 1958,
+      "EndYear": 1984,
+      "Cost": {
+        "short": -2,
+        "medium": -4,
+        "long": -6
+      }
+    },
+    {
+      "Designation": "F-106",
+      "Name": "Delta Dart",
+      "Type": "Fighter",
+      "StartYear": 1959,
+      "EndYear": 1988,
+      "Cost": {
+        "short": -6,
+        "medium": -12,
+        "long": -18
+      }
+    },
+    {
+      "Designation": "A-7 (USAF)",
+      "Name": "Corsair II",
+      "Type": "Attack",
+      "StartYear": 1962,
+      "EndYear": 1990,
+      "Cost": {
+        "short": -6,
+        "medium": -12,
+        "long": -18
+      }
+    },
+    {
+      "Designation": "A-7 (USN)",
+      "Name": "Corsair II",
+      "Type": "Attack",
+      "StartYear": 1961,
+      "EndYear": 1986,
+      "Cost": {
+        "short": -6,
+        "medium": -12,
+        "long": -18
+      }
+    },
+    {
+      "Designation": "F-5",
+      "Name": "Freedom Fighter",
+      "Type": "Fighter",
+      "StartYear": 1962,
+      "EndYear": 1990,
+      "Cost": {
+        "short": -3,
+        "medium": -6,
+        "long": -9
+      }
+    },
+    {
+      "Designation": "F-8",
+      "Name": "Crusader",
+      "Type": "Fighter",
+      "StartYear": 1957,
+      "EndYear": 1976,
+      "Cost": {
+        "short": -3,
+        "medium": -6,
+        "long": -9
+      }
+    }
+  ],
+  "Pilots": [
+    {
+      "Name": "Q-Tip",
+      "Aircraft": "A-1"
+    },
+    {
+      "Name": "Scarecrow",
+      "Aircraft": "A-1"
+    },
+    {
+      "Name": "Zing",
+      "Aircraft": "A-1"
+    },
+    {
+      "Name": "Firefly",
+      "Aircraft": "A-37"
+    },
+    {
+      "Name": "Kaboose",
+      "Aircraft": "A-37"
+    },
+    {
+      "Name": "Nails",
+      "Aircraft": "A-37"
+    },
+    {
+      "Name": "Ghost",
+      "Aircraft": "A-3"
+    },
+    {
+      "Name": "Seaweed",
+      "Aircraft": "A-3"
+    },
+    {
+      "Name": "Back Fire",
+      "Aircraft": "A-4"
+    },
+    {
+      "Name": "Midas",
+      "Aircraft": "A-4"
+    },
+    {
+      "Name": "Noah",
+      "Aircraft": "A-4"
+    },
+    {
+      "Name": "Peewee",
+      "Aircraft": "A-4"
+    },
+    {
+      "Name": "Pluto",
+      "Aircraft": "A-4"
+    },
+    {
+      "Name": "Preacher",
+      "Aircraft": "A-4"
+    },
+    {
+      "Name": "Shadow",
+      "Aircraft": "A-4"
+    },
+    {
+      "Name": "Stargazer",
+      "Aircraft": "A-4"
+    },
+    {
+      "Name": "Santa",
+      "Aircraft": "A-5"
+    },
+    {
+      "Name": "Dapper",
+      "Aircraft": "A-6"
+    },
+    {
+      "Name": "Driver",
+      "Aircraft": "A-6"
+    },
+    {
+      "Name": "Firefly",
+      "Aircraft": "A-6"
+    },
+    {
+      "Name": "Grease",
+      "Aircraft": "A-6"
+    },
+    {
+      "Name": "Gringo",
+      "Aircraft": "A-6"
+    },
+    {
+      "Name": "Razor",
+      "Aircraft": "A-6"
+    },
+    {
+      "Name": "Barley",
+      "Aircraft": "A-7 (USAF)"
+    },
+    {
+      "Name": "Digger",
+      "Aircraft": "A-7 (USAF)"
+    },
+    {
+      "Name": "Houston",
+      "Aircraft": "A-7 (USAF)"
+    },
+    {
+      "Name": "Tracker",
+      "Aircraft": "A-7 (USAF)"
+    },
+    {
+      "Name": "Blowhole",
+      "Aircraft": "A-7 (USN)"
+    },
+    {
+      "Name": "Crowbar",
+      "Aircraft": "A-7 (USN)"
+    },
+    {
+      "Name": "Freight Train",
+      "Aircraft": "A-7 (USN)"
+    },
+    {
+      "Name": "Gato",
+      "Aircraft": "A-7 (USN)"
+    },
+    {
+      "Name": "Griz",
+      "Aircraft": "A-7 (USN)"
+    },
+    {
+      "Name": "Martimer",
+      "Aircraft": "A-7 (USN)"
+    },
+    {
+      "Name": "Taxi",
+      "Aircraft": "A-7 (USN)"
+    },
+    {
+      "Name": "Vulture",
+      "Aircraft": "E-1"
+    },
+    {
+      "Name": "Guardian",
+      "Aircraft": "E-2"
+    },
+    {
+      "Name": "Bat",
+      "Aircraft": "EB-66"
+    },
+    {
+      "Name": "Jackpot",
+      "Aircraft": "EB-66"
+    },
+    {
+      "Name": "Easy Money",
+      "Aircraft": "EA-6A"
+    },
+    {
+      "Name": "Frisco",
+      "Aircraft": "EA-6A"
+    },
+    {
+      "Name": "Buzzard",
+      "Aircraft": "F-100"
+    },
+    {
+      "Name": "Crater",
+      "Aircraft": "F-100"
+    },
+    {
+      "Name": "Diamond",
+      "Aircraft": "F-100"
+    },
+    {
+      "Name": "Honker",
+      "Aircraft": "F-100"
+    },
+    {
+      "Name": "Misty",
+      "Aircraft": "F-100"
+    },
+    {
+      "Name": "Surfer",
+      "Aircraft": "F-100"
+    },
+    {
+      "Name": "Taz",
+      "Aircraft": "F-100"
+    },
+    {
+      "Name": "Mobster",
+      "Aircraft": "F-101"
+    },
+    {
+      "Name": "Ruff",
+      "Aircraft": "F-101"
+    },
+    {
+      "Name": "Titan",
+      "Aircraft": "F-101"
+    },
+    {
+      "Name": "Blade",
+      "Aircraft": "F-102"
+    },
+    {
+      "Name": "Magic",
+      "Aircraft": "F-102"
+    },
+    {
+      "Name": "Gusher",
+      "Aircraft": "F-104"
+    },
+    {
+      "Name": "Rebel",
+      "Aircraft": "F-104"
+    },
+    {
+      "Name": "Too Tall",
+      "Aircraft": "F-104"
+    },
+    {
+      "Name": "Chiller",
+      "Aircraft": "F-105"
+    },
+    {
+      "Name": "Dagger",
+      "Aircraft": "F-105"
+    },
+    {
+      "Name": "Dutch",
+      "Aircraft": "F-105"
+    },
+    {
+      "Name": "Ferret",
+      "Aircraft": "F-105"
+    },
+    {
+      "Name": "Irish",
+      "Aircraft": "F-105"
+    },
+    {
+      "Name": "Judge",
+      "Aircraft": "F-105"
+    },
+    {
+      "Name": "Lefty",
+      "Aircraft": "F-105"
+    },
+    {
+      "Name": "Mad Dog",
+      "Aircraft": "F-105 WW"
+    },
+    {
+      "Name": "Pigeon",
+      "Aircraft": "F-105"
+    },
+    {
+      "Name": "Stash",
+      "Aircraft": "F-105"
+    },
+    {
+      "Name": "Trigger",
+      "Aircraft": "F-105 WW"
+    },
+    {
+      "Name": "Vapor",
+      "Aircraft": "F-105 WW"
+    },
+    {
+      "Name": "Dice",
+      "Aircraft": "F-106"
+    },
+    {
+      "Name": "Pointer",
+      "Aircraft": "F-106"
+    },
+    {
+      "Name": "Redeye",
+      "Aircraft": "F-106"
+    },
+    {
+      "Name": "Beeper",
+      "Aircraft": "F-4 (USAF)"
+    },
+    {
+      "Name": "Boomer",
+      "Aircraft": "F-4 (USAF)"
+    },
+    {
+      "Name": "Barbarian",
+      "Aircraft": "F-4 (USN)"
+    },
+    {
+      "Name": "Batdog",
+      "Aircraft": "F-4 (USN)"
+    },
+    {
+      "Name": "Buck",
+      "Aircraft": "F-4 (USN)"
+    },
+    {
+      "Name": "Buick",
+      "Aircraft": "F-4 (USN)"
+    },
+    {
+      "Name": "Duke",
+      "Aircraft": "F-4 (USN)"
+    },
+    {
+      "Name": "G.O.",
+      "Aircraft": "F-4 (USN)"
+    },
+    {
+      "Name": "Arrow",
+      "Aircraft": "F-4 (USAF)"
+    },
+    {
+      "Name": "Cajun",
+      "Aircraft": "F-4 (USAF)"
+    },
+    {
+      "Name": "Echo",
+      "Aircraft": "F-4 (USAF)"
+    },
+    {
+      "Name": "Gadget",
+      "Aircraft": "F-4 (USAF)"
+    },
+    {
+      "Name": "Jagger",
+      "Aircraft": "F-4 (USAF)"
+    },
+    {
+      "Name": "Junior",
+      "Aircraft": "F-4 (USAF)"
+    },
+    {
+      "Name": "Kirin",
+      "Aircraft": "F-4 (USAF)"
+    },
+    {
+      "Name": "Monger",
+      "Aircraft": "F-4 (USAF)"
+    },
+    {
+      "Name": "Papa",
+      "Aircraft": "F-4 (USAF)"
+    },
+    {
+      "Name": "Plunger",
+      "Aircraft": "F-4 (USN)"
+    },
+    {
+      "Name": "Poco",
+      "Aircraft": "F-4 (USN)"
+    },
+    {
+      "Name": "Showtime",
+      "Aircraft": "F-4 (USN)"
+    },
+    {
+      "Name": "Steam",
+      "Aircraft": "F-4 (USN)"
+    },
+    {
+      "Name": "Whiplash",
+      "Aircraft": "F-4 (USN)"
+    },
+    {
+      "Name": "Scorpio",
+      "Aircraft": "F-4 (USAF)"
+    },
+    {
+      "Name": "Robin",
+      "Aircraft": "F-4 (USAF)"
+    },
+    {
+      "Name": "Smokes",
+      "Aircraft": "F-4 (USAF)"
+    },
+    {
+      "Name": "Splashdog",
+      "Aircraft": "F-4 (USAF)"
+    },
+    {
+      "Name": "T-Bone",
+      "Aircraft": "F-4 (USAF)"
+    },
+    {
+      "Name": "Fizzbee",
+      "Aircraft": "F-5"
+    },
+    {
+      "Name": "Jenkins",
+      "Aircraft": "F-5"
+    },
+    {
+      "Name": "Montana",
+      "Aircraft": "F-5"
+    },
+    {
+      "Name": "Knife",
+      "Aircraft": "F-8"
+    },
+    {
+      "Name": "Moose",
+      "Aircraft": "F-8"
+    },
+    {
+      "Name": "Rabbit",
+      "Aircraft": "F-8"
+    },
+    {
+      "Name": "Scar",
+      "Aircraft": "F-8"
+    },
+    {
+      "Name": "Wise Guy",
+      "Aircraft": "F-8"
+    }
+  ]
+}

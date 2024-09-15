@@ -1,0 +1,2071 @@
+{
+  "Name": "Israeli Air Force Leader",
+  "Campaigns": [
+    {
+      "Name": "1948 - War of Independence",
+      "Year": 1948,
+      "Difficulty": 3,
+      "DifficultyDescription": "Skilled",
+      "AvailableAircraft": [
+        "P-51D",
+        "Avia S.199",
+        "Spitfire Mk.IX",
+        "B-17"
+      ],
+      "SpecialWeapons": [
+        "Mk. 83 Iron Bomb",
+        "Rockets"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "4 Days",
+          "SOPoints": 13,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "8 Days",
+          "SOPoints": 26,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "12 Days",
+          "SOPoints": 39,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "1948 - War of Independence (First Phase:  Galilee)",
+      "Year": 1948,
+      "Difficulty": 3,
+      "DifficultyDescription": "Skilled",
+      "AvailableAircraft": [
+        "P-51D",
+        "Avia S.199",
+        "Spitfire Mk.IX",
+        "B-17"
+      ],
+      "SpecialWeapons": [
+        "Mk. 83 Iron Bomb",
+        "Rockets"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "2 Days",
+          "SOPoints": 10,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "4 Days",
+          "SOPoints": 20,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "6 Days",
+          "SOPoints": 30,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "1956 - The Suez Crisis",
+      "Year": 1956,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "P-51D (1956)",
+        "B-17",
+        "Meteor Mk.XIII",
+        "Mosquito Mk.VI",
+        "Mystere Mk.IV",
+        "Ouragan"
+      ],
+      "SpecialWeapons": [
+        "Mk. 84 Iron Bomb",
+        "BLU-1"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "5 Days",
+          "SOPoints": 23,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "10 Days",
+          "SOPoints": 45,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "15 Days",
+          "SOPoints": 67,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "1956 - The Suez Crisis (First Phase)",
+      "Year": 1956,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "P-51D (1956)",
+        "B-17",
+        "Meteor Mk.XIII",
+        "Mosquito Mk.VI",
+        "Mystere Mk.IV",
+        "Ouragan"
+      ],
+      "SpecialWeapons": [
+        "Mk. 84 Iron Bomb",
+        "BLU-1"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "5 Days",
+          "SOPoints": 23,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "10 Days",
+          "SOPoints": 45,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "15 Days",
+          "SOPoints": 67,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "1967 - The Six Day War",
+      "Year": 1967,
+      "Difficulty": 1,
+      "DifficultyDescription": "Introductory",
+      "AvailableAircraft": [
+        "Mystere Mk.IV (1967)",
+        "Magister",
+        "Ouragan (1967)",
+        "Mirage IIIC",
+        "Super Mystere",
+        "Vautour",
+        "A-4"
+      ],
+      "SpecialWeapons": [
+        "AIM-9 Sidewinder",
+        "BLU-1"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Intro",
+          "Timespan": "6 Days",
+          "SOPoints": 27,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Skilled",
+          "Timespan": "6 Days",
+          "SOPoints": 24,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Expert",
+          "Timespan": "6 Days",
+          "SOPoints": 20,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "1967 - The Six Day War (West Bank)",
+      "Year": 1967,
+      "Difficulty": 3,
+      "DifficultyDescription": "Skilled",
+      "AvailableAircraft": [
+        "Mystere Mk.IV (1967)",
+        "Magister",
+        "Ouragan (1967)",
+        "Mirage IIIC",
+        "Super Mystere",
+        "Vautour",
+        "A-4"
+      ],
+      "SpecialWeapons": [
+        "AIM-9 Sidewinder",
+        "BLU-1"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "3 Days",
+          "SOPoints": 20,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "1973 - Yom Kippur War",
+      "Year": 1973,
+      "Difficulty": 4,
+      "DifficultyDescription": "Expert",
+      "AvailableAircraft": [
+        "Mirage IIIC (1973)",
+        "Nesher (1973)",
+        "Super Mystere (1973)",
+        "A-4 (1973)",
+        "F-4"
+      ],
+      "SpecialWeapons": [
+        "AGM-12 Bullpup",
+        "AGM-62 Walleye",
+        "AGM-78 ARM",
+        "Shafrir"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "3 Days",
+          "SOPoints": 5,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 10,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "9 Days",
+          "SOPoints": 16,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "1973 - Yom Kippur War (Battles of Mount Hermon)",
+      "Year": 1973,
+      "Difficulty": 4,
+      "DifficultyDescription": "Expert",
+      "AvailableAircraft": [
+        "Mirage IIIC (1973)",
+        "Nesher (1973)",
+        "Super Mystere (1973)",
+        "A-4 (1973)",
+        "F-4"
+      ],
+      "SpecialWeapons": [
+        "AGM-12 Bullpup",
+        "AGM-62 Walleye",
+        "AGM-78 ARM",
+        "Shafrir"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "5 Days",
+          "SOPoints": 20,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "1981- Operation Babylon",
+      "Year": 1981,
+      "Difficulty": 3,
+      "DifficultyDescription": "Skilled",
+      "AvailableAircraft": [
+        "F-15A",
+        "F-16",
+        "C.2",
+        "A-4 (1981)",
+        "F-4 (1981)"
+      ],
+      "SpecialWeapons": [
+        "AGM-65 Maverick",
+        "AGM-62 Walleye",
+        "AGM-78 ARM",
+        "Python"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "7 Days",
+          "SOPoints": 30,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "1982 - Lebanon I",
+      "Year": 1982,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "F-15A",
+        "F-16",
+        "C.2",
+        "A-4 (1982+)",
+        "F-4"
+      ],
+      "SpecialWeapons": [
+        "AGM-65 Maverick",
+        "AGM-62 Walleye",
+        "AGM-78 ARM",
+        "Python"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "4 Days",
+          "SOPoints": 15,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "8 Days",
+          "SOPoints": 29,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "12 Days",
+          "SOPoints": 42,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "1991 - Desert Storm",
+      "Year": 1991,
+      "Difficulty": 1,
+      "DifficultyDescription": "Introductory",
+      "AvailableAircraft": [
+        "F-15A",
+        "F-16",
+        "C.2",
+        "A-4 (1982+)",
+        "F-4"
+      ],
+      "SpecialWeapons": [
+        "AGM-65 Maverick",
+        "AGM-78 ARM",
+        "Python",
+        "GBU-10 Smart Bomb",
+        "GBU-12 Smart Bomb",
+        "GBU-16 Smart Bomb"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "3 Days",
+          "SOPoints": 22,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 44,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "9 Days",
+          "SOPoints": 66,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "2006 - Lebanon II",
+      "Year": 2006,
+      "Difficulty": 3,
+      "DifficultyDescription": "Skilled",
+      "AvailableAircraft": [
+        "F-16",
+        "A-4 (1982+)",
+        "F-15I"
+      ],
+      "SpecialWeapons": [
+        "AGM-65 Maverick",
+        "AGM-88 HARM",
+        "GBU-12 Smart Bomb",
+        "GBU-31 Smart Bomb",
+        "GBU-32 Smart Bomb"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "3 Days",
+          "SOPoints": 22,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 44,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "2022 - Armageddon",
+      "Year": 2022,
+      "Difficulty": 4,
+      "DifficultyDescription": "Expert",
+      "AvailableAircraft": [
+        "F-16 (2022)",
+        "F-15A (2022)",
+        "F-35",
+        "F-15I"
+      ],
+      "SpecialWeapons": [
+        "AGM-65 Maverick",
+        "AIM-120 AMRAAM",
+        "Python",
+        "AGM-88 HARM",
+        "GBU-12 Smart Bomb",
+        "GBU-16 Smart Bomb",
+        "GBU-31 Smart Bomb",
+        "GBU-32 Smart Bomb"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "7 Days",
+          "SOPoints": 45,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "AircraftTypes": [
+    {
+      "Designation": "P-51D",
+      "Name": "Mustang",
+      "Type": "Fighter",
+      "StartYear": 1948,
+      "EndYear": 1948
+    },
+    {
+      "Designation": "P-51D (1956)",
+      "Name": "Mustang",
+      "Type": "Fighter",
+      "StartYear": 1956,
+      "EndYear": 1956,
+      "Cost": {
+        "short": -2,
+        "medium": -4,
+        "long": -6
+      }
+    },
+    {
+      "Designation": "Avia S.199",
+      "Name": "Sakeen",
+      "Type": "Fighter",
+      "StartYear": 1948,
+      "EndYear": 1949
+    },
+    {
+      "Designation": "Spitfire Mk.IX",
+      "Name": "Spitfire",
+      "Type": "Fighter",
+      "StartYear": 1948,
+      "EndYear": 1949
+    },
+    {
+      "Designation": "B-17",
+      "Name": "Flying Fortress",
+      "Type": "Bomber",
+      "StartYear": 1948,
+      "EndYear": 1958
+    },
+    {
+      "Designation": "Meteor Mk.XIII",
+      "Name": "Meteor",
+      "Type": "Fighter",
+      "StartYear": 1956,
+      "EndYear": 1956
+    },
+    {
+      "Designation": "Mosquito Mk.VI ",
+      "Name": "Mosquito Mk.VI",
+      "Type": "Fighter",
+      "StartYear": 1956,
+      "EndYear": 1956
+    },
+    {
+      "Designation": "Mystere Mk.IV",
+      "Name": "Mystere Mk.IV",
+      "Type": "Fighter-bomber",
+      "StartYear": 1956,
+      "EndYear": 1956
+    },
+    {
+      "Designation": "Mystere Mk.IV (1967)",
+      "Name": "Mystere Mk.IV",
+      "Type": "Fighter-bomber",
+      "StartYear": 1967,
+      "EndYear": 1967,
+      "Cost": {
+        "short": -3,
+        "medium": -3,
+        "long": -3
+      }
+    },
+    {
+      "Designation": "Ouragan",
+      "Name": "Ouragan",
+      "Type": "Fighter-bomber",
+      "StartYear": 1956,
+      "EndYear": 1956
+    },
+    {
+      "Designation": "Ouragan (1967)",
+      "Name": "Ouragan",
+      "Type": "Fighter-bomber",
+      "StartYear": 1967,
+      "EndYear": 1967,
+      "Cost": {
+        "short": -2,
+        "medium": -2,
+        "long": -2
+      }
+    },
+    {
+      "Designation": "Magister",
+      "Name": "Magister",
+      "Type": "Fighter-bomber",
+      "StartYear": 1967,
+      "EndYear": 1967,
+      "Cost": {
+        "short": -4,
+        "medium": -4,
+        "long": -4
+      }
+    },
+    {
+      "Designation": "Mirage IIIC",
+      "Name": "Mirage IIIC",
+      "Type": "Fighter",
+      "StartYear": 1962,
+      "EndYear": 1973
+    },
+    {
+      "Designation": "Mirage IIIC (1973)",
+      "Name": "Mirage IIIC",
+      "Type": "Fighter",
+      "StartYear": 1962,
+      "EndYear": 1973,
+      "Cost": {
+        "short": -3,
+        "medium": -6,
+        "long": -9
+      }
+    },
+    {
+      "Designation": "Nesher",
+      "Name": "Nesher",
+      "Type": "Fighter",
+      "StartYear": 1972,
+      "EndYear": 1977
+    },
+    {
+      "Designation": "Nesher (1973)",
+      "Name": "Nesher",
+      "Type": "Fighter",
+      "StartYear": 1972,
+      "EndYear": 1977,
+      "Cost": {
+        "short": -3,
+        "medium": -6,
+        "long": -9
+      }
+    },
+    {
+      "Designation": "Super Mystere",
+      "Name": "Super Mystere",
+      "Type": "Fighter-bomber",
+      "StartYear": 1958,
+      "EndYear": 1973
+    },
+    {
+      "Designation": "Super Mystere (1973)",
+      "Name": "Super Mystere",
+      "Type": "Fighter-bomber",
+      "StartYear": 1958,
+      "EndYear": 1973
+    },
+    {
+      "Designation": "Vautour",
+      "Name": "Vautour",
+      "Type": "Fighter-bomber",
+      "StartYear": 1958,
+      "EndYear": 1972
+    },
+    {
+      "Designation": "F-4",
+      "Name": "Phantom II",
+      "Type": "Fighter",
+      "StartYear": 1969,
+      "EndYear": 2004
+    },
+    {
+      "Designation": "A-4",
+      "Name": "Skyhawk",
+      "Type": "Fighter-bomber",
+      "StartYear": 1966,
+      "EndYear": 2008
+    },
+    {
+      "Designation": "A-4 (1973)",
+      "Name": "Skyhawk",
+      "Type": "Fighter-bomber",
+      "StartYear": 1966,
+      "EndYear": 2008,
+      "Cost": {
+        "short": -1,
+        "medium": -2,
+        "long": -3
+      }
+    },
+    {
+      "Designation": "A-4 (1981)",
+      "Name": "Skyhawk",
+      "Type": "Fighter-bomber",
+      "StartYear": 1966,
+      "EndYear": 2008,
+      "Cost": {
+        "short": -4,
+        "medium": -4,
+        "long": -4
+      }
+    },
+    {
+      "Designation": "A-4 (1982+)",
+      "Name": "Skyhawk",
+      "Type": "Fighter-bomber",
+      "StartYear": 1966,
+      "EndYear": 2008,
+      "Cost": {
+        "short": -1,
+        "medium": -2,
+        "long": -3
+      }
+    },
+    {
+      "Designation": "F-15A",
+      "Name": "Eagle",
+      "Type": "Fighter",
+      "StartYear": 1976,
+      "EndYear": 2050
+    },
+    {
+      "Designation": "F-15A (2022)",
+      "Name": "Eagle",
+      "Type": "Fighter",
+      "StartYear": 1976,
+      "EndYear": 2050,
+      "Cost": {
+        "short": -4,
+        "medium": -4,
+        "long": -4
+      }
+    },
+    {
+      "Designation": "F-15I",
+      "Name": "Strike Eagle",
+      "Type": "Fighter-bomber",
+      "StartYear": 1994,
+      "EndYear": 2050
+    },
+    {
+      "Designation": "F-16",
+      "Name": "Fighting Falcon",
+      "Type": "Fighter",
+      "StartYear": 1980,
+      "EndYear": 2050
+    },
+    {
+      "Designation": "F-16 (2022)",
+      "Name": "Fighting Falcon",
+      "Type": "Fighter",
+      "StartYear": 1980,
+      "Cost": {
+        "short": -4,
+        "medium": -4,
+        "long": -4
+      }
+    },
+    {
+      "Designation": "C.2",
+      "Name": "Kfir",
+      "Type": "Fighter",
+      "StartYear": 1976,
+      "EndYear": 1996
+    },
+    {
+      "Designation": "F-35",
+      "Name": "Lightning II",
+      "Type": "Fighter",
+      "StartYear": 2017,
+      "EndYear": 2050
+    }
+  ],
+  "Pilots": [
+    {
+      "Name": "Cat",
+      "Aircraft": "P-51D"
+    },
+    {
+      "Name": "Hungry",
+      "Aircraft": "P-51D"
+    },
+    {
+      "Name": "Lizard",
+      "Aircraft": "P-51D"
+    },
+    {
+      "Name": "Painter",
+      "Aircraft": "P-51D"
+    },
+    {
+      "Name": "Wolf",
+      "Aircraft": "P-51D"
+    },
+    {
+      "Name": "Cat",
+      "Aircraft": "P-51D (1956)"
+    },
+    {
+      "Name": "Hungry",
+      "Aircraft": "P-51D (1956)"
+    },
+    {
+      "Name": "Lizard",
+      "Aircraft": "P-51D (1956)"
+    },
+    {
+      "Name": "Painter",
+      "Aircraft": "P-51D (1956)"
+    },
+    {
+      "Name": "Wolf",
+      "Aircraft": "P-51D (1956)"
+    },
+    {
+      "Name": "Ocean",
+      "Aircraft": "Avia S.199"
+    },
+    {
+      "Name": "Spider",
+      "Aircraft": "Avia S.199"
+    },
+    {
+      "Name": "String",
+      "Aircraft": "Avia S.199"
+    },
+    {
+      "Name": "Web",
+      "Aircraft": "Avia S.199"
+    },
+    {
+      "Name": "Iron",
+      "Aircraft": "Mk.IX"
+    },
+    {
+      "Name": "King",
+      "Aircraft": "Mk.IX"
+    },
+    {
+      "Name": "Lightning",
+      "Aircraft": "Mk.IX"
+    },
+    {
+      "Name": "Prince",
+      "Aircraft": "Mk.IX"
+    },
+    {
+      "Name": "Steel",
+      "Aircraft": "Mk.IX"
+    },
+    {
+      "Name": "Shark",
+      "Aircraft": "B-17"
+    },
+    {
+      "Name": "Thunder",
+      "Aircraft": "B-17"
+    },
+    {
+      "Name": "Goat",
+      "Aircraft": "Meteor Mk.XIII"
+    },
+    {
+      "Name": "Snake",
+      "Aircraft": "Meteor Mk.XIII"
+    },
+    {
+      "Name": "Truck",
+      "Aircraft": "Meteor Mk.XIII"
+    },
+    {
+      "Name": "Bread",
+      "Aircraft": "Mosquito Mk.VI"
+    },
+    {
+      "Name": "Healer",
+      "Aircraft": "Mosquito Mk.VI"
+    },
+    {
+      "Name": "Wind",
+      "Aircraft": "Mosquito Mk.VI"
+    },
+    {
+      "Name": "Wine",
+      "Aircraft": "Mosquito Mk.VI"
+    },
+    {
+      "Name": "Dog",
+      "Aircraft": "Mystere Mk.IV"
+    },
+    {
+      "Name": "Giant",
+      "Aircraft": "Mystere Mk.IV"
+    },
+    {
+      "Name": "Rock",
+      "Aircraft": "Mystere Mk.IV"
+    },
+    {
+      "Name": "Vampire",
+      "Aircraft": "Mystere Mk.IV"
+    },
+    {
+      "Name": "Dog",
+      "Aircraft": "Mystere Mk.IV (1967)"
+    },
+    {
+      "Name": "Giant",
+      "Aircraft": "Mystere Mk.IV (1967)"
+    },
+    {
+      "Name": "Rock",
+      "Aircraft": "Mystere Mk.IV (1967)"
+    },
+    {
+      "Name": "Vampire",
+      "Aircraft": "Mystere Mk.IV (1967)"
+    },
+    {
+      "Name": "Eyes",
+      "Aircraft": "Ouragan"
+    },
+    {
+      "Name": "Farmer",
+      "Aircraft": "Ouragan"
+    },
+    {
+      "Name": "Knife",
+      "Aircraft": "Ouragan"
+    },
+    {
+      "Name": "Horror",
+      "Aircraft": "Ouragan"
+    },
+    {
+      "Name": "Terror",
+      "Aircraft": "Ouragan"
+    },
+    {
+      "Name": "Eyes",
+      "Aircraft": "Ouragan (1967)"
+    },
+    {
+      "Name": "Farmer",
+      "Aircraft": "Ouragan (1967)"
+    },
+    {
+      "Name": "Knife",
+      "Aircraft": "Ouragan (1967)"
+    },
+    {
+      "Name": "Horror",
+      "Aircraft": "Ouragan (1967)"
+    },
+    {
+      "Name": "Terror",
+      "Aircraft": "Ouragan (1967)"
+    },
+    {
+      "Name": "Bucket",
+      "Aircraft": "Magister"
+    },
+    {
+      "Name": "Eagle",
+      "Aircraft": "Magister"
+    },
+    {
+      "Name": "Fearless",
+      "Aircraft": "Magister"
+    },
+    {
+      "Name": "Monster",
+      "Aircraft": "Magister"
+    },
+    {
+      "Name": "Bucket",
+      "Aircraft": "Magister (1967)"
+    },
+    {
+      "Name": "Eagle",
+      "Aircraft": "Magister (1967)"
+    },
+    {
+      "Name": "Fearless",
+      "Aircraft": "Magister (1967)"
+    },
+    {
+      "Name": "Monster",
+      "Aircraft": "Magister (1967)"
+    },
+    {
+      "Name": "Cook",
+      "Aircraft": "Mirage IIIC"
+    },
+    {
+      "Name": "Cow",
+      "Aircraft": "Mirage IIIC"
+    },
+    {
+      "Name": "Cowboy",
+      "Aircraft": "Mirage IIIC"
+    },
+    {
+      "Name": "Handsome",
+      "Aircraft": "Mirage IIIC"
+    },
+    {
+      "Name": "Cook",
+      "Aircraft": "Mirage IIIC (1973)"
+    },
+    {
+      "Name": "Cow",
+      "Aircraft": "Mirage IIIC (1973)"
+    },
+    {
+      "Name": "Cowboy",
+      "Aircraft": "Mirage IIIC (1973)"
+    },
+    {
+      "Name": "Handsome",
+      "Aircraft": "Mirage IIIC (1973)"
+    },
+    {
+      "Name": "Angry",
+      "Aircraft": "Nesher"
+    },
+    {
+      "Name": "Courage",
+      "Aircraft": "Nesher"
+    },
+    {
+      "Name": "Scorpion",
+      "Aircraft": "Nesher"
+    },
+    {
+      "Name": "Thief",
+      "Aircraft": "Nesher"
+    },
+    {
+      "Name": "Angry",
+      "Aircraft": "Nesher (1973)"
+    },
+    {
+      "Name": "Courage",
+      "Aircraft": "Nesher (1973)"
+    },
+    {
+      "Name": "Scorpion",
+      "Aircraft": "Nesher (1973)"
+    },
+    {
+      "Name": "Thief",
+      "Aircraft": "Nesher (1973)"
+    },
+    {
+      "Name": "Dragon",
+      "Aircraft": "Super Mystere"
+    },
+    {
+      "Name": "Hyena",
+      "Aircraft": "Super Mystere"
+    },
+    {
+      "Name": "Kid",
+      "Aircraft": "Super Mystere"
+    },
+    {
+      "Name": "Teacher",
+      "Aircraft": "Super Mystere"
+    },
+    {
+      "Name": "Dragon",
+      "Aircraft": "Super Mystere (1973)"
+    },
+    {
+      "Name": "Hyena",
+      "Aircraft": "Super Mystere (1973)"
+    },
+    {
+      "Name": "Kid",
+      "Aircraft": "Super Mystere (1973)"
+    },
+    {
+      "Name": "Teacher",
+      "Aircraft": "Super Mystere (1973)"
+    },
+    {
+      "Name": "Gun",
+      "Aircraft": "Vautour"
+    },
+    {
+      "Name": "Sand",
+      "Aircraft": "Vautour"
+    },
+    {
+      "Name": "Sky",
+      "Aircraft": "Vautour"
+    },
+    {
+      "Name": "Tank",
+      "Aircraft": "Vautour"
+    },
+    {
+      "Name": "Crusader",
+      "Aircraft": "F-4"
+    },
+    {
+      "Name": "Knight",
+      "Aircraft": "F-4"
+    },
+    {
+      "Name": "Star",
+      "Aircraft": "F-4"
+    },
+    {
+      "Name": "Storm",
+      "Aircraft": "F-4"
+    },
+    {
+      "Name": "Warrior",
+      "Aircraft": "F-4"
+    },
+    {
+      "Name": "Brick",
+      "Aircraft": "A-4"
+    },
+    {
+      "Name": "Fig",
+      "Aircraft": "A-4"
+    },
+    {
+      "Name": "Little",
+      "Aircraft": "A-4"
+    },
+    {
+      "Name": "Mouse",
+      "Aircraft": "A-4"
+    },
+    {
+      "Name": "Brick",
+      "Aircraft": "A-4 (1973)"
+    },
+    {
+      "Name": "Fig",
+      "Aircraft": "A-4 (1973)"
+    },
+    {
+      "Name": "Little",
+      "Aircraft": "A-4 (1973)"
+    },
+    {
+      "Name": "Mouse",
+      "Aircraft": "A-4 (1973)"
+    },
+    {
+      "Name": "Brick",
+      "Aircraft": "A-4 (1981)"
+    },
+    {
+      "Name": "Fig",
+      "Aircraft": "A-4 (1981)"
+    },
+    {
+      "Name": "Little",
+      "Aircraft": "A-4 (1981)"
+    },
+    {
+      "Name": "Mouse",
+      "Aircraft": "A-4 (1981)"
+    },
+    {
+      "Name": "Brick",
+      "Aircraft": "A-4 (1982+)"
+    },
+    {
+      "Name": "Fig",
+      "Aircraft": "A-4 (1982+)"
+    },
+    {
+      "Name": "Little",
+      "Aircraft": "A-4 (1982+)"
+    },
+    {
+      "Name": "Mouse",
+      "Aircraft": "A-4 (1982+)"
+    },
+    {
+      "Name": "Abyss",
+      "Aircraft": "F-15A"
+    },
+    {
+      "Name": "Acrobat",
+      "Aircraft": "F-15A"
+    },
+    {
+      "Name": "Boar",
+      "Aircraft": "F-15A"
+    },
+    {
+      "Name": "Hot Sauce",
+      "Aircraft": "F-15A"
+    },
+    {
+      "Name": "Scissors",
+      "Aircraft": "F-15A"
+    },
+    {
+      "Name": "Stone",
+      "Aircraft": "F-15A"
+    },
+    {
+      "Name": "Wasp",
+      "Aircraft": "F-15A"
+    },
+    {
+      "Name": "Wing",
+      "Aircraft": "F-15A"
+    },
+    {
+      "Name": "Wired",
+      "Aircraft": "F-15A"
+    },
+    {
+      "Name": "Blade",
+      "Aircraft": "F-16"
+    },
+    {
+      "Name": "Fixer",
+      "Aircraft": "F-16"
+    },
+    {
+      "Name": "Rocket",
+      "Aircraft": "F-16"
+    },
+    {
+      "Name": "Wild",
+      "Aircraft": "F-16"
+    },
+    {
+      "Name": "Zoom",
+      "Aircraft": "F-16"
+    },
+    {
+      "Name": "Fire",
+      "Aircraft": "F-15I"
+    },
+    {
+      "Name": "Spice",
+      "Aircraft": "F-15I"
+    },
+    {
+      "Name": "Abyss",
+      "Aircraft": "F-15 (2022)A"
+    },
+    {
+      "Name": "Acrobat",
+      "Aircraft": "F-15 (2022)A"
+    },
+    {
+      "Name": "Boar",
+      "Aircraft": "F-15 (2022)A"
+    },
+    {
+      "Name": "Hot Sauce",
+      "Aircraft": "F-15 (2022)A"
+    },
+    {
+      "Name": "Wasp",
+      "Aircraft": "F-15 (2022)A"
+    },
+    {
+      "Name": "Scissors",
+      "Aircraft": "F-15 (2022)A"
+    },
+    {
+      "Name": "Stone",
+      "Aircraft": "F-15 (2022)A"
+    },
+    {
+      "Name": "Wing",
+      "Aircraft": "F-15 (2022)A"
+    },
+    {
+      "Name": "Wired",
+      "Aircraft": "F-15 (2022)A"
+    },
+    {
+      "Name": "Blade",
+      "Aircraft": "F-16 (2022)"
+    },
+    {
+      "Name": "Fixer",
+      "Aircraft": "F-16 (2022)"
+    },
+    {
+      "Name": "Rocket",
+      "Aircraft": "F-16 (2022)"
+    },
+    {
+      "Name": "Wild",
+      "Aircraft": "F-16 (2022)"
+    },
+    {
+      "Name": "Zoom",
+      "Aircraft": "F-16 (2022)"
+    },
+    {
+      "Name": "Decoy",
+      "Aircraft": "C.2"
+    },
+    {
+      "Name": "Demon",
+      "Aircraft": "C.2"
+    },
+    {
+      "Name": "Max",
+      "Aircraft": "C.2"
+    },
+    {
+      "Name": "Ruby",
+      "Aircraft": "C.2"
+    },
+    {
+      "Name": "Scratch",
+      "Aircraft": "C.2"
+    },
+    {
+      "Name": "Angel",
+      "Aircraft": "F-35"
+    },
+    {
+      "Name": "Arrow",
+      "Aircraft": "F-35"
+    },
+    {
+      "Name": "Bugsy",
+      "Aircraft": "F-35"
+    },
+    {
+      "Name": "Daisy",
+      "Aircraft": "F-35"
+    },
+    {
+      "Name": "Rebel",
+      "Aircraft": "F-35"
+    }
+  ]
+}

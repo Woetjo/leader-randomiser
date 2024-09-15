@@ -1,0 +1,1968 @@
+{
+  "Name": "Corsair Leader",
+  "Campaigns": [
+    {
+      "Name": "Battle of Midway - US Marines",
+      "Year": 1942,
+      "Difficulty": 4,
+      "DifficultyDescription": "Expert",
+      "AvailableAircraft": [
+        "F4F (41-42)",
+        "F2A",
+        "TBF",
+        "SBD",
+        "TBD",
+        "SB2U"
+      ],
+      "SpecialWeapons": [],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "2 Days",
+          "SOPoints": 12,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "3 Days",
+          "SOPoints": 19,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "4 Days",
+          "SOPoints": 24,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Battle of Midway - US Navy",
+      "Year": 1942,
+      "Difficulty": 4,
+      "DifficultyDescription": "Expert",
+      "AvailableAircraft": [
+        "F4F (41-42)",
+        "SBD",
+        "TBD"
+      ],
+      "SpecialWeapons": [],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "2 Days",
+          "SOPoints": 15,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "3 Days",
+          "SOPoints": 24,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "4 Days",
+          "SOPoints": 33,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Battle of the Coral Sea - US Navy",
+      "Year": 1942,
+      "Difficulty": 3,
+      "DifficultyDescription": "Skilled",
+      "AvailableAircraft": [
+        "F4F (41-42)",
+        "SBD",
+        "TBD"
+      ],
+      "SpecialWeapons": [],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "2 Days",
+          "SOPoints": 15,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "3 Days",
+          "SOPoints": 24,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "4 Days",
+          "SOPoints": 33,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Guadalcanal - US Marines",
+      "Year": 1942,
+      "Difficulty": 3,
+      "DifficultyDescription": "Skilled",
+      "AvailableAircraft": [
+        "F4F (41-42)",
+        "SBD",
+        "TBF"
+      ],
+      "SpecialWeapons": [],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "4 Days",
+          "SOPoints": 14,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "7 Days",
+          "SOPoints": 22,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "10 Days",
+          "SOPoints": 29,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Black Sheep Squadron - US Marines",
+      "Year": 1943,
+      "Difficulty": 4,
+      "DifficultyDescription": "Expert",
+      "AvailableAircraft": [
+        "F4U"
+      ],
+      "SpecialWeapons": [
+        "Rockets"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "8 Days",
+          "SOPoints": 10,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "New Britain - USAAF",
+      "Year": 1943,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "P-38",
+        "B-25",
+        "B-25G",
+        "F4U"
+      ],
+      "SpecialWeapons": [
+        "Napalm",
+        "TT Rockets",
+        "Rockets"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "3 Days",
+          "SOPoints": 20,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 35,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "9 Days",
+          "SOPoints": 50,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "New Georgia - US Marines",
+      "Year": 1943,
+      "Difficulty": 3,
+      "DifficultyDescription": "Skilled",
+      "AvailableAircraft": [
+        "F4F (1943+)",
+        "SBD",
+        "F4U",
+        "TBF",
+        "B-25",
+        "B-25G"
+      ],
+      "SpecialWeapons": [
+        "Rockets"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "4 Days",
+          "SOPoints": 15,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "8 Days",
+          "SOPoints": 25,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "12 Days",
+          "SOPoints": 35,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Battle of Leyte Gulf - US Navy",
+      "Year": 1944,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "F6F",
+        "SB2C",
+        "TBF"
+      ],
+      "SpecialWeapons": [
+        "Napalm",
+        "TT Rockets",
+        "Rockets"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "3 Days",
+          "SOPoints": 20,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 35,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "9 Days",
+          "SOPoints": 50,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Rabaul - US Marines",
+      "Year": 1944,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "SBD",
+        "F4U",
+        "B-25",
+        "B-25G",
+        "TBF"
+      ],
+      "SpecialWeapons": [
+        "Napalm",
+        "TT Rockets",
+        "Rockets"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "4 Days",
+          "SOPoints": 25,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "8 Days",
+          "SOPoints": 40,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "12 Days",
+          "SOPoints": 60,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Sumatra - UK-FAA",
+      "Year": 1944,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "F4U (UK-FAA)"
+      ],
+      "SpecialWeapons": [
+        "Napalm",
+        "TT Rockets",
+        "Rockets"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "3 Days",
+          "SOPoints": 18,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 32,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "9 Days",
+          "SOPoints": 44,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Luzon - US Marines",
+      "Year": 1945,
+      "Difficulty": 1,
+      "DifficultyDescription": "Introductory",
+      "AvailableAircraft": [
+        "SBD",
+        "F4U",
+        "TBF",
+        "B-25",
+        "B-25G"
+      ],
+      "SpecialWeapons": [
+        "Napalm",
+        "TT Rockets",
+        "Rockets"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "3 Days",
+          "SOPoints": 20,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 35,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "9 Days",
+          "SOPoints": 50,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Okinawa - US Navy & UK-FAA",
+      "Year": 1945,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "F4U",
+        "F4U (UK-FAA)",
+        "F6F",
+        "SB2C",
+        "TBF"
+      ],
+      "SpecialWeapons": [
+        "Napalm",
+        "TT Rockets",
+        "Rockets"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "4 Days",
+          "SOPoints": 18,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 25,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "8 Days",
+          "SOPoints": 30,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "AircraftTypes": [
+    {
+      "Designation": "P-38",
+      "Name": "Lightning",
+      "Type": "Fighter",
+      "StartYear": 1943,
+      "EndYear": 1945
+    },
+    {
+      "Designation": "P-40 (41-42)",
+      "Name": "Warhawk",
+      "Type": "Fighter",
+      "StartYear": 1941,
+      "EndYear": 1942
+    },
+    {
+      "Designation": "P-40 (1943+)",
+      "Name": "Warhawk",
+      "Type": "Fighter",
+      "StartYear": 1943,
+      "EndYear": 1945,
+      "Cost": {
+        "short": -2,
+        "medium": -4,
+        "long": -6
+      }
+    },
+    {
+      "Designation": "B-25G",
+      "Name": "Mitchell",
+      "Type": "Bomber",
+      "StartYear": 1943,
+      "EndYear": 1945,
+      "Cost": {
+        "short": 5,
+        "medium": 10,
+        "long": 15
+      }
+    },
+    {
+      "Designation": "B-25",
+      "Name": "Mitchell",
+      "Type": "Bomber",
+      "StartYear": 1943,
+      "EndYear": 1945,
+      "Cost": {
+        "short": 4,
+        "medium": 8,
+        "long": 12
+      }
+    },
+    {
+      "Designation": "F2A",
+      "Name": "Buffalo",
+      "Type": "Fighter",
+      "StartYear": 1941,
+      "EndYear": 1942,
+      "Cost": {
+        "short": -3,
+        "medium": -6,
+        "long": -9
+      }
+    },
+    {
+      "Designation": "F4F (41-42)",
+      "Name": "Wildcat",
+      "Type": "Fighter",
+      "StartYear": 1941,
+      "EndYear": 1942
+    },
+    {
+      "Designation": "F4F (1943+)",
+      "Name": "Wildcat",
+      "Type": "Fighter",
+      "StartYear": 1943,
+      "EndYear": 1945,
+      "Cost": {
+        "short": -2,
+        "medium": -4,
+        "long": -6
+      }
+    },
+    {
+      "Designation": "F4U",
+      "Name": "Corsair",
+      "Type": "Fighter",
+      "StartYear": 1943,
+      "EndYear": 1945
+    },
+    {
+      "Designation": "F6F",
+      "Name": "Hellcat",
+      "Type": "Fighter",
+      "StartYear": 1943,
+      "EndYear": 1945
+    },
+    {
+      "Designation": "SB2C",
+      "Name": "Helldiver",
+      "Type": "Dive Bomber",
+      "StartYear": 1943,
+      "EndYear": 1945
+    },
+    {
+      "Designation": "SBD",
+      "Name": "Dauntless",
+      "Type": "Dive Bomber",
+      "StartYear": 1941,
+      "EndYear": 1944
+    },
+    {
+      "Designation": "TBD",
+      "Name": "Devastator",
+      "Type": "Torpedo Bomber",
+      "StartYear": 1941,
+      "EndYear": 1942,
+      "Cost": {
+        "short": -2,
+        "medium": -4,
+        "long": -6
+      }
+    },
+    {
+      "Designation": "TBF",
+      "Name": "Avenger",
+      "Type": "Torpedo Bomber",
+      "StartYear": 1942,
+      "EndYear": 1945
+    },
+    {
+      "Designation": "SB2U",
+      "Name": "Vindicator",
+      "Type": "Dive Bomber",
+      "StartYear": 1941,
+      "EndYear": 1942,
+      "Cost": {
+        "short": -3,
+        "medium": -6,
+        "long": -9
+      }
+    },
+    {
+      "Designation": "F4U (UK-FAA)",
+      "Name": "Corsair",
+      "Type": "Fighter",
+      "StartYear": 1943,
+      "EndYear": 1945
+    }
+  ],
+  "Pilots": [
+    {
+      "Name": "Henry Achilles",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Alex Aguila",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Kevin \"Puffy\" Caldwell",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Derek \"12 Pack\" Case",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Russo Corbally",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Charlie Field",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Figueroa",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Jose \"Josito\" Garcia",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Emery Gallant",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Leland \"Top\" Gilton",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Eric Gingrich",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Gutenkunst",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Joe Harper",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Tom \"Madman\" Manley",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Kevin McCammon",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Matt Rider",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Frederic Rodriguez",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Scott \"Sticks\" Rowland",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Aje \"Ronin\" Sakamoto",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Ed Schnettler",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Dan Schul",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Chris Severs",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "\"Madcartographer\" Smith",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Robert E. Stacy",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Jacob Tan Jia En",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Chuck \"Homer\" Turner",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Kurt \"Weasel\" Wasserman",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Dynamite Doug Wong",
+      "Aircraft": "F4U"
+    },
+    {
+      "Name": "Aarvold",
+      "Aircraft": "F4U (UK-FAA)"
+    },
+    {
+      "Name": "Acland",
+      "Aircraft": "F4U (UK-FAA)"
+    },
+    {
+      "Name": "Bob \"Eyeballs\" Alexander",
+      "Aircraft": "F4U (UK-FAA)"
+    },
+    {
+      "Name": "Jason \"Bones\" Allibone",
+      "Aircraft": "F4U (UK-FAA)"
+    },
+    {
+      "Name": "Peter Blake",
+      "Aircraft": "F4U (UK-FAA)"
+    },
+    {
+      "Name": "Bruce",
+      "Aircraft": "F4U (UK-FAA)"
+    },
+    {
+      "Name": "Clague",
+      "Aircraft": "F4U (UK-FAA)"
+    },
+    {
+      "Name": "Crowe",
+      "Aircraft": "F4U (UK-FAA)"
+    },
+    {
+      "Name": "Ezra",
+      "Aircraft": "F4U (UK-FAA)"
+    },
+    {
+      "Name": "Granger",
+      "Aircraft": "F4U (UK-FAA)"
+    },
+    {
+      "Name": "Clay Jensen",
+      "Aircraft": "F4U (UK-FAA)"
+    },
+    {
+      "Name": "Nevill",
+      "Aircraft": "F4U (UK-FAA)"
+    },
+    {
+      "Name": "Lindon Paxton",
+      "Aircraft": "F4U (UK-FAA)"
+    },
+    {
+      "Name": "Potter",
+      "Aircraft": "F4U (UK-FAA)"
+    },
+    {
+      "Name": "Capt. Floyd Salerno",
+      "Aircraft": "F4U (UK-FAA)"
+    },
+    {
+      "Name": "Staub",
+      "Aircraft": "F4U (UK-FAA)"
+    },
+    {
+      "Name": "Bill Regalo",
+      "Aircraft": "F4F (41-42)"
+    },
+    {
+      "Name": "Campbell",
+      "Aircraft": "F4F (41-42)"
+    },
+    {
+      "Name": "Casavelli",
+      "Aircraft": "F4F (41-42)"
+    },
+    {
+      "Name": "Chris \"Balut\" Saguisag",
+      "Aircraft": "F4F (41-42)"
+    },
+    {
+      "Name": "Chris Foote",
+      "Aircraft": "F4F (41-42)"
+    },
+    {
+      "Name": "Chuck \"Greycap\" Seegert",
+      "Aircraft": "F4F (41-42)"
+    },
+    {
+      "Name": "DK \"Buster\" Wiggins",
+      "Aircraft": "F4F (41-42)"
+    },
+    {
+      "Name": "Gil \"Pepe\" Ocampo",
+      "Aircraft": "F4F (41-42)"
+    },
+    {
+      "Name": "John \"Showbiz\" Starman",
+      "Aircraft": "F4F (41-42)"
+    },
+    {
+      "Name": "Mark \"Bacon\" Willmartin",
+      "Aircraft": "F4F (41-42)"
+    },
+    {
+      "Name": "Tom \"Killer\" Konczal",
+      "Aircraft": "F4F (41-42)"
+    },
+    {
+      "Name": "Bill Regalo",
+      "Aircraft": "F4F (1943+)"
+    },
+    {
+      "Name": "Campbell",
+      "Aircraft": "F4F (1943+)"
+    },
+    {
+      "Name": "Casavelli",
+      "Aircraft": "F4F (1943+)"
+    },
+    {
+      "Name": "Chris \"Balut\" Saguisag",
+      "Aircraft": "F4F (1943+)"
+    },
+    {
+      "Name": "Chris Foote",
+      "Aircraft": "F4F (1943+)"
+    },
+    {
+      "Name": "Chuck \"Greycap\" Seegert",
+      "Aircraft": "F4F (1943+)"
+    },
+    {
+      "Name": "DK \"Buster\" Wiggins",
+      "Aircraft": "F4F (1943+)"
+    },
+    {
+      "Name": "Gil \"Pepe\" Ocampo",
+      "Aircraft": "F4F (1943+)"
+    },
+    {
+      "Name": "John \"Showbiz\" Starman",
+      "Aircraft": "F4F (1943+)"
+    },
+    {
+      "Name": "Mark \"Bacon\" Willmartin",
+      "Aircraft": "F4F (1943+)"
+    },
+    {
+      "Name": "Tom \"Killer\" Konczal",
+      "Aircraft": "F4F (1943+)"
+    },
+    {
+      "Name": "Bryant",
+      "Aircraft": "F2A"
+    },
+    {
+      "Name": "Butler",
+      "Aircraft": "F2A"
+    },
+    {
+      "Name": "Granneman",
+      "Aircraft": "F2A"
+    },
+    {
+      "Name": "Lincoln",
+      "Aircraft": "F2A"
+    },
+    {
+      "Name": "Simmons",
+      "Aircraft": "F2A"
+    },
+    {
+      "Name": "Charly Biard",
+      "Aircraft": "F6F"
+    },
+    {
+      "Name": "L. D. Davis",
+      "Aircraft": "F6F"
+    },
+    {
+      "Name": "Alistair Hull",
+      "Aircraft": "F6F"
+    },
+    {
+      "Name": "Bert G. Keredan",
+      "Aircraft": "F6F"
+    },
+    {
+      "Name": "Joe \"Mangz\" Manglardi",
+      "Aircraft": "F6F"
+    },
+    {
+      "Name": "Kevin Morgan",
+      "Aircraft": "F6F"
+    },
+    {
+      "Name": "JT \"Buckeye\" Reece",
+      "Aircraft": "F6F"
+    },
+    {
+      "Name": "Tom \"Tumba\" Sn�ll",
+      "Aircraft": "F6F"
+    },
+    {
+      "Name": "Benjamin \"Maestro\" Weitze",
+      "Aircraft": "F6F"
+    },
+    {
+      "Name": "Eandi",
+      "Aircraft": "TBD"
+    },
+    {
+      "Name": "Hughes",
+      "Aircraft": "TBD"
+    },
+    {
+      "Name": "Long",
+      "Aircraft": "TBD"
+    },
+    {
+      "Name": "Powell",
+      "Aircraft": "TBD"
+    },
+    {
+      "Name": "Washington",
+      "Aircraft": "TBD"
+    },
+    {
+      "Name": "Griffin",
+      "Aircraft": "SB2U"
+    },
+    {
+      "Name": "Hayes",
+      "Aircraft": "SB2U"
+    },
+    {
+      "Name": "Russel",
+      "Aircraft": "SB2U"
+    },
+    {
+      "Name": "\"Blackshoe\" Benson",
+      "Aircraft": "SBD"
+    },
+    {
+      "Name": "JD \"Bearcat\" Lewis",
+      "Aircraft": "SBD"
+    },
+    {
+      "Name": "Lewis",
+      "Aircraft": "SBD"
+    },
+    {
+      "Name": "Walker",
+      "Aircraft": "SBD"
+    },
+    {
+      "Name": "Paul Baker",
+      "Aircraft": "TBF"
+    },
+    {
+      "Name": "Peter Gardner",
+      "Aircraft": "TBF"
+    },
+    {
+      "Name": "Brett \"Bear\" Grimmond",
+      "Aircraft": "TBF"
+    },
+    {
+      "Name": "Chris \"Cougar\" Hueltenschmidt",
+      "Aircraft": "TBF"
+    },
+    {
+      "Name": "Bill Vandekieft",
+      "Aircraft": "TBF"
+    },
+    {
+      "Name": "\"Tiny\" Cherry",
+      "Aircraft": "SB2C"
+    },
+    {
+      "Name": "Clark",
+      "Aircraft": "SB2C"
+    },
+    {
+      "Name": "Edwards",
+      "Aircraft": "SB2C"
+    },
+    {
+      "Name": "Robinson",
+      "Aircraft": "SB2C"
+    },
+    {
+      "Name": "Hurt",
+      "Aircraft": "P-40 (41-42)"
+    },
+    {
+      "Name": "Jeff Johansen",
+      "Aircraft": "P-40 (41-42)"
+    },
+    {
+      "Name": "Jones",
+      "Aircraft": "P-40 (41-42)"
+    },
+    {
+      "Name": "LTC CJ Wallington",
+      "Aircraft": "P-40 (41-42)"
+    },
+    {
+      "Name": "Washburn",
+      "Aircraft": "P-40 (41-42)"
+    },
+    {
+      "Name": "Hurt",
+      "Aircraft": "P-40 (1943+)"
+    },
+    {
+      "Name": "Jeff Johansen",
+      "Aircraft": "P-40 (1943+)"
+    },
+    {
+      "Name": "Jones",
+      "Aircraft": "P-40 (1943+)"
+    },
+    {
+      "Name": "LTC CJ Wallington",
+      "Aircraft": "P-40 (1943+)"
+    },
+    {
+      "Name": "Washburn",
+      "Aircraft": "P-40 (1943+)"
+    },
+    {
+      "Name": "Everett Anglin",
+      "Aircraft": "P-38"
+    },
+    {
+      "Name": "Rex T. Barber",
+      "Aircraft": "P-38"
+    },
+    {
+      "Name": "2LT Scott Biggar",
+      "Aircraft": "P-38"
+    },
+    {
+      "Name": "Butta",
+      "Aircraft": "P-38"
+    },
+    {
+      "Name": "Leo \"Banzai\" Bonser",
+      "Aircraft": "P-38"
+    },
+    {
+      "Name": "Delton Goerke",
+      "Aircraft": "P-38"
+    },
+    {
+      "Name": "Lawrence Graebner",
+      "Aircraft": "P-38"
+    },
+    {
+      "Name": "Raymond H. Hine",
+      "Aircraft": "P-38"
+    },
+    {
+      "Name": "Besby F. Holmes",
+      "Aircraft": "P-38"
+    },
+    {
+      "Name": "Julius Jacobson",
+      "Aircraft": "P-38"
+    },
+    {
+      "Name": "Jr. Lamphier",
+      "Aircraft": "P-38"
+    },
+    {
+      "Name": "Dusty Rhodes",
+      "Aircraft": "P-38"
+    },
+    {
+      "Name": "Ken Schooff",
+      "Aircraft": "P-38"
+    },
+    {
+      "Name": "MAJ Tankertoad",
+      "Aircraft": "P-38"
+    },
+    {
+      "Name": "Ric Van Dyke",
+      "Aircraft": "P-38"
+    },
+    {
+      "Name": "Gary Wishik",
+      "Aircraft": "P-38"
+    },
+    {
+      "Name": "Garcia",
+      "Aircraft": "B-25"
+    },
+    {
+      "Name": "Ludwig",
+      "Aircraft": "B-25"
+    },
+    {
+      "Name": "Martin",
+      "Aircraft": "B-25"
+    },
+    {
+      "Name": "Thompson",
+      "Aircraft": "B-25"
+    },
+    {
+      "Name": "Duchetta",
+      "Aircraft": "B-25G"
+    },
+    {
+      "Name": "Goldman",
+      "Aircraft": "B-25G"
+    },
+    {
+      "Name": "Guadagnino",
+      "Aircraft": "B-25G"
+    },
+    {
+      "Name": "Smeltzer",
+      "Aircraft": "B-25G"
+    }
+  ]
+}

@@ -1,0 +1,2947 @@
+{
+  "Name": "Zero Leader",
+  "Campaigns": [
+    {
+      "Name": "Midway",
+      "Year": 1942,
+      "Difficulty": 1,
+      "DifficultyDescription": "Introductory",
+      "AvailableAircraft": [
+        "A6M2",
+        "D3A",
+        "B5N"
+      ],
+      "SpecialWeapons": [],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "2 Days",
+          "SOPoints": 12,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 3
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "3 Days",
+          "SOPoints": 18,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "4 Days",
+          "SOPoints": 24,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Singapore",
+      "Year": 1942,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "A6M2",
+        "KI-27",
+        "G3M",
+        "G4M",
+        "KI-48",
+        "KI-51",
+        "KI-43"
+      ],
+      "SpecialWeapons": [],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "2 Days",
+          "SOPoints": 7,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 3
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "3 Days",
+          "SOPoints": 18,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "4 Days",
+          "SOPoints": 24,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Pearl Harbor",
+      "Year": 1941,
+      "Difficulty": 1,
+      "DifficultyDescription": "Introductory",
+      "AvailableAircraft": [
+        "A6M2",
+        "B5N",
+        "D3A"
+      ],
+      "SpecialWeapons": [],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "3 Days",
+          "SOPoints": 12,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 3
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "3 Days",
+          "SOPoints": 12,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "4 Days",
+          "SOPoints": 24,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Philippines",
+      "Year": 1941,
+      "Difficulty": 1,
+      "DifficultyDescription": "Introductory",
+      "AvailableAircraft": [
+        "KI-43",
+        "KI-51",
+        "A6M2",
+        "B5N",
+        "D3A",
+        "G3M",
+        "G4M"
+      ],
+      "SpecialWeapons": [],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "3 Days",
+          "SOPoints": 15,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 3
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 22,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "9 Days",
+          "SOPoints": 29,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Wake Island",
+      "Year": 1941,
+      "Difficulty": 1,
+      "DifficultyDescription": "Introductory",
+      "AvailableAircraft": [
+        "A6M2",
+        "B5N",
+        "D3A",
+        "G3M"
+      ],
+      "SpecialWeapons": [],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "3 Days",
+          "SOPoints": 15,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 3
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 24,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "9 Days",
+          "SOPoints": 32,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "China",
+      "Year": 1941,
+      "Difficulty": 1,
+      "DifficultyDescription": "Introductory",
+      "AvailableAircraft": [
+        "A5M",
+        "B5N",
+        "D3A",
+        "KI-27",
+        "KI-48",
+        "KI-51",
+        "KI-43",
+        "G3M"
+      ],
+      "SpecialWeapons": [],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "5 Days",
+          "SOPoints": 16,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 3
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "10 Days",
+          "SOPoints": 31,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "15 Days",
+          "SOPoints": 44,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Coral Sea",
+      "Year": 1942,
+      "Difficulty": 1,
+      "DifficultyDescription": "Introductory",
+      "AvailableAircraft": [
+        "A6M2",
+        "D3A",
+        "B5N"
+      ],
+      "SpecialWeapons": [],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "2 Days",
+          "SOPoints": 10,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 3
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "3 Days",
+          "SOPoints": 13,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "4 Days",
+          "SOPoints": 16,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Battle of Santa Cruz",
+      "Year": 1942,
+      "Difficulty": 1,
+      "DifficultyDescription": "Introductory",
+      "AvailableAircraft": [
+        "A6M2",
+        "D3A",
+        "B5N"
+      ],
+      "SpecialWeapons": [],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "2 Days",
+          "SOPoints": 10,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 3
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "3 Days",
+          "SOPoints": 13,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "4 Days",
+          "SOPoints": 16,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Indian Ocean Raid",
+      "Year": 1942,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "A6M2",
+        "A5M",
+        "D3A",
+        "B5N"
+      ],
+      "SpecialWeapons": [],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "3 Days",
+          "SOPoints": 10,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 3
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "4 Days",
+          "SOPoints": 13,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "5 Days",
+          "SOPoints": 16,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Burma",
+      "Year": 1942,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "KI-48",
+        "G3M",
+        "KI-51",
+        "KI-43",
+        "KI-27"
+      ],
+      "SpecialWeapons": [],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "3 Days",
+          "SOPoints": 10,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 3
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 19,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "9 Days",
+          "SOPoints": 28,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Malaya",
+      "Year": 1942,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "A5M",
+        "B5N",
+        "D3A",
+        "KI-27",
+        "KI-48",
+        "G3M",
+        "KI-51",
+        "KI-43",
+        "G4M",
+        "A6M2"
+      ],
+      "SpecialWeapons": [],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "3 Days",
+          "SOPoints": 10,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 3
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 19,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "9 Days",
+          "SOPoints": 28,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Guadalcanal",
+      "Year": 1942,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "A6M2",
+        "D3A",
+        "B5N",
+        "KI-43",
+        "G4M"
+      ],
+      "SpecialWeapons": [],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "4 Days",
+          "SOPoints": 20,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 3
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "7 Days",
+          "SOPoints": 25,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "10 Days",
+          "SOPoints": 30,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Port Moresby/Lae",
+      "Year": 1942,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "A6M2",
+        "G4M",
+        "G3M"
+      ],
+      "SpecialWeapons": [],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "4 Days",
+          "SOPoints": 18,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 3
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 22,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "9 Days",
+          "SOPoints": 27,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "New Georgia",
+      "Year": 1943,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "A6M2",
+        "D3A",
+        "B5N",
+        "KI-43",
+        "KI-44",
+        "J2M",
+        "KI-51",
+        "KI-61",
+        "G4M",
+        "H8K"
+      ],
+      "SpecialWeapons": [],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "4 Days",
+          "SOPoints": 20,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "8 Days",
+          "SOPoints": 32,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "12 Days",
+          "SOPoints": 36,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "New Britain",
+      "Year": 1943,
+      "Difficulty": 2,
+      "DifficultyDescription": "Standard",
+      "AvailableAircraft": [
+        "A6M2",
+        "KI-43",
+        "KI-44",
+        "KI-61",
+        "H8K"
+      ],
+      "SpecialWeapons": [],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "3 Days",
+          "SOPoints": 15,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 20,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "9 Days",
+          "SOPoints": 25,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 2
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 6
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Leyte Gulf",
+      "Year": 1944,
+      "Difficulty": 3,
+      "DifficultyDescription": "Skilled",
+      "AvailableAircraft": [
+        "A6M2",
+        "A6M5",
+        "KI-43",
+        "KI-61",
+        "KI-84",
+        "NIKJ",
+        "B6N",
+        "B5N",
+        "D3A",
+        "G4M"
+      ],
+      "SpecialWeapons": [],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "3 Days",
+          "SOPoints": 15,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 3
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 3
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 22,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 3
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "9 Days",
+          "SOPoints": 30,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 3
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Rabaul",
+      "Year": 1944,
+      "Difficulty": 3,
+      "DifficultyDescription": "Skilled",
+      "AvailableAircraft": [
+        "A6M2",
+        "A6M5",
+        "KI-43",
+        "KI-61",
+        "KI-84",
+        "NIKJ",
+        "H8K",
+        "B5N",
+        "D3A",
+        "G4M"
+      ],
+      "SpecialWeapons": [],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "4 Days",
+          "SOPoints": 20,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 3
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 3
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "8 Days",
+          "SOPoints": 32,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 3
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "12 Days",
+          "SOPoints": 40,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 3
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Okinawa",
+      "Year": 1945,
+      "Difficulty": 4,
+      "DifficultyDescription": "Expert",
+      "AvailableAircraft": [
+        "A6M5",
+        "NIKJ",
+        "J2M",
+        "KI-61",
+        "KI-84",
+        "B6N",
+        "D3A",
+        "G4M",
+        "H8K"
+      ],
+      "SpecialWeapons": [
+        "Ohka"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "4 Days",
+          "SOPoints": 16,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 3
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 3
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 24,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 3
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "8 Days",
+          "SOPoints": 27,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 3
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Luzon",
+      "Year": 1945,
+      "Difficulty": 4,
+      "DifficultyDescription": "Expert",
+      "AvailableAircraft": [
+        "A6M2",
+        "A6M5",
+        "KI-43",
+        "KI-61",
+        "KI-84",
+        "NIKJ",
+        "B6N",
+        "D3A",
+        "G4M",
+        "H8K"
+      ],
+      "SpecialWeapons": [
+        "Ohka"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "3 Days",
+          "SOPoints": 15,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 3
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 3
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "6 Days",
+          "SOPoints": 24,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 3
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "9 Days",
+          "SOPoints": 30,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 3
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Home Island Defense",
+      "Year": 1945,
+      "Difficulty": 4,
+      "DifficultyDescription": "Expert",
+      "AvailableAircraft": [
+        "A6M2",
+        "KI-61",
+        "KI-84",
+        "A6M5",
+        "J2M",
+        "NIKJ",
+        "B6N",
+        "G4M",
+        "H8K"
+      ],
+      "SpecialWeapons": [
+        "Ohka"
+      ],
+      "CampaignOptions": [
+        {
+          "Length": 1,
+          "LengthDescription": "Short",
+          "Timespan": "6 Days",
+          "SOPoints": 30,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 3
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 3
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 2,
+          "LengthDescription": "Medium",
+          "Timespan": "9 Days",
+          "SOPoints": 35,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 3
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 4
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 1
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        },
+        {
+          "Length": 3,
+          "LengthDescription": "Long",
+          "Timespan": "12 Days",
+          "SOPoints": 40,
+          "SquadronMakeup": [
+            {
+              "Rank": 1,
+              "RankDescription": "Newbie",
+              "Count": 1
+            },
+            {
+              "Rank": 2,
+              "RankDescription": "Green",
+              "Count": 3
+            },
+            {
+              "Rank": 3,
+              "RankDescription": "Average",
+              "Count": 5
+            },
+            {
+              "Rank": 4,
+              "RankDescription": "Skilled",
+              "Count": 2
+            },
+            {
+              "Rank": 5,
+              "RankDescription": "Veteran",
+              "Count": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "AircraftTypes": [
+    {
+      "Designation": "A5M",
+      "Name": "Claude",
+      "Type": "Fighter",
+      "StartYear": 1939,
+      "EndYear": 1945
+    },
+    {
+      "Designation": "A6M2",
+      "Name": "Zero",
+      "Type": "Fighter",
+      "StartYear": 1940,
+      "EndYear": 1945
+    },
+    {
+      "Designation": "A6M5",
+      "Name": "Zeke",
+      "Type": "Fighter",
+      "StartYear": 1944,
+      "EndYear": 1945,
+      "Cost": {
+        "short": 1,
+        "medium": 2,
+        "long": 3
+      }
+    },
+    {
+      "Designation": "J2M",
+      "Name": "Jack",
+      "Type": "Fighter",
+      "StartYear": 1943,
+      "EndYear": 1945
+    },
+    {
+      "Designation": "KI-27",
+      "Name": "Nate",
+      "Type": "Fighter",
+      "StartYear": 1939,
+      "EndYear": 1943,
+      "Cost": {
+        "short": -1,
+        "medium": -2,
+        "long": -3
+      }
+    },
+    {
+      "Designation": "KI-43",
+      "Name": "Oscar",
+      "Type": "Fighter",
+      "StartYear": 1939,
+      "EndYear": 1945
+    },
+    {
+      "Designation": "KI-44",
+      "Name": "Tojo",
+      "Type": "Fighter",
+      "StartYear": 1941,
+      "EndYear": 1945
+    },
+    {
+      "Designation": "KI-61",
+      "Name": "Tony",
+      "Type": "Fighter",
+      "StartYear": 1943,
+      "EndYear": 1945,
+      "Cost": {
+        "short": 1,
+        "medium": 2,
+        "long": 3
+      }
+    },
+    {
+      "Designation": "B5N",
+      "Name": "Kate",
+      "Type": "Torpedo Bomber",
+      "StartYear": 1939,
+      "EndYear": 1945
+    },
+    {
+      "Designation": "B6N",
+      "Name": "Jill",
+      "Type": "Torpedo Bomber",
+      "StartYear": 1944,
+      "EndYear": 1945,
+      "Cost": {
+        "short": 1,
+        "medium": 2,
+        "long": 3
+      }
+    },
+    {
+      "Designation": "D3A",
+      "Name": "Val",
+      "Type": "Dive Bomber",
+      "StartYear": 1940,
+      "EndYear": 1945
+    },
+    {
+      "Designation": "G3M",
+      "Name": "Nell",
+      "Type": "Bomber",
+      "StartYear": 1940,
+      "EndYear": 1943,
+      "Cost": {
+        "short": -1,
+        "medium": -2,
+        "long": -3
+      }
+    },
+    {
+      "Designation": "G4M",
+      "Name": "Betty",
+      "Type": "Bomber",
+      "StartYear": 1941,
+      "EndYear": 1945,
+      "Cost": {
+        "short": 1,
+        "medium": 2,
+        "long": 3
+      }
+    },
+    {
+      "Designation": "KI-48",
+      "Name": "Lily",
+      "Type": "Bomber",
+      "StartYear": 1940,
+      "EndYear": 1942
+    },
+    {
+      "Designation": "KI-51",
+      "Name": "Sonia",
+      "Type": "Bomber",
+      "StartYear": 1939,
+      "EndYear": 1945
+    },
+    {
+      "Designation": "H8K",
+      "Name": "Emily",
+      "Type": "Patrol",
+      "StartYear": 1941,
+      "EndYear": 1945,
+      "Cost": {
+        "short": 2,
+        "medium": 4,
+        "long": 6
+      }
+    },
+    {
+      "Designation": "N1KJ",
+      "Name": "George",
+      "Type": "Fighter",
+      "StartYear": 1944,
+      "EndYear": 1945,
+      "Cost": {
+        "short": 2,
+        "medium": 4,
+        "long": 6
+      }
+    },
+    {
+      "Designation": "KI-84",
+      "Name": "Frank",
+      "Type": "Fighter",
+      "StartYear": 1944,
+      "EndYear": 1945,
+      "Cost": {
+        "short": 1,
+        "medium": 2,
+        "long": 3
+      }
+    }
+  ],
+  "Pilots": [
+    {
+      "Name": "Fujita",
+      "Aircraft": "A5M"
+    },
+    {
+      "Name": "Kaneko",
+      "Aircraft": "A5M"
+    },
+    {
+      "Name": "Nishimura",
+      "Aircraft": "A5M"
+    },
+    {
+      "Name": "Sasaki",
+      "Aircraft": "A5M"
+    },
+    {
+      "Name": "Yamashita",
+      "Aircraft": "A5M"
+    },
+    {
+      "Name": "Chiba",
+      "Aircraft": "A6M2"
+    },
+    {
+      "Name": "Hara",
+      "Aircraft": "A6M2"
+    },
+    {
+      "Name": "Ichikawa",
+      "Aircraft": "A6M2"
+    },
+    {
+      "Name": "Imai",
+      "Aircraft": "A6M2"
+    },
+    {
+      "Name": "Inoue",
+      "Aircraft": "A6M2"
+    },
+    {
+      "Name": "Kuma",
+      "Aircraft": "A6M2"
+    },
+    {
+      "Name": "Matsuda",
+      "Aircraft": "A6M2"
+    },
+    {
+      "Name": "Murata",
+      "Aircraft": "A6M2"
+    },
+    {
+      "Name": "Sano",
+      "Aircraft": "A6M2"
+    },
+    {
+      "Name": "Tamura",
+      "Aircraft": "A6M2"
+    },
+    {
+      "Name": "Ueno",
+      "Aircraft": "A6M2"
+    },
+    {
+      "Name": "Yamazaki",
+      "Aircraft": "A6M2"
+    },
+    {
+      "Name": "Ejima",
+      "Aircraft": "A6M5"
+    },
+    {
+      "Name": "Futugami",
+      "Aircraft": "A6M5"
+    },
+    {
+      "Name": "Hatano",
+      "Aircraft": "A6M5"
+    },
+    {
+      "Name": "Hayashi",
+      "Aircraft": "A6M5"
+    },
+    {
+      "Name": "Ibusuki",
+      "Aircraft": "A6M5"
+    },
+    {
+      "Name": "Nishino",
+      "Aircraft": "A6M5"
+    },
+    {
+      "Name": "Oba",
+      "Aircraft": "A6M5"
+    },
+    {
+      "Name": "Okura",
+      "Aircraft": "A6M5"
+    },
+    {
+      "Name": "Shyu",
+      "Aircraft": "A6M5"
+    },
+    {
+      "Name": "Tada",
+      "Aircraft": "A6M5"
+    },
+    {
+      "Name": "Takeuchi",
+      "Aircraft": "A6M5"
+    },
+    {
+      "Name": "Yoshino",
+      "Aircraft": "A6M5"
+    },
+    {
+      "Name": "Fukuoka",
+      "Aircraft": "J2M"
+    },
+    {
+      "Name": "Hirao",
+      "Aircraft": "J2M"
+    },
+    {
+      "Name": "Ishihara",
+      "Aircraft": "J2M"
+    },
+    {
+      "Name": "Kogawa",
+      "Aircraft": "J2M"
+    },
+    {
+      "Name": "Nishikawa",
+      "Aircraft": "J2M"
+    },
+    {
+      "Name": "Tozawa",
+      "Aircraft": "J2M"
+    },
+    {
+      "Name": "Agari",
+      "Aircraft": "KI-27"
+    },
+    {
+      "Name": "Kozaki",
+      "Aircraft": "KI-27"
+    },
+    {
+      "Name": "Matsunobu",
+      "Aircraft": "KI-27"
+    },
+    {
+      "Name": "Michigami",
+      "Aircraft": "KI-27"
+    },
+    {
+      "Name": "Sakata",
+      "Aircraft": "KI-27"
+    },
+    {
+      "Name": "Aizawa",
+      "Aircraft": "KI-43"
+    },
+    {
+      "Name": "Eiro",
+      "Aircraft": "KI-43"
+    },
+    {
+      "Name": "Hata",
+      "Aircraft": "KI-43"
+    },
+    {
+      "Name": "Izawa",
+      "Aircraft": "KI-43"
+    },
+    {
+      "Name": "Miura",
+      "Aircraft": "KI-43"
+    },
+    {
+      "Name": "Sakao",
+      "Aircraft": "KI-43"
+    },
+    {
+      "Name": "Akita",
+      "Aircraft": "KI-44"
+    },
+    {
+      "Name": "Hanwa",
+      "Aircraft": "KI-44"
+    },
+    {
+      "Name": "Imamura",
+      "Aircraft": "KI-44"
+    },
+    {
+      "Name": "Iwabuchi",
+      "Aircraft": "KI-44"
+    },
+    {
+      "Name": "Nikaido",
+      "Aircraft": "KI-44"
+    },
+    {
+      "Name": "Takebe",
+      "Aircraft": "KI-44"
+    },
+    {
+      "Name": "Hidaka",
+      "Aircraft": "KI-61"
+    },
+    {
+      "Name": "Murakami",
+      "Aircraft": "KI-61"
+    },
+    {
+      "Name": "Saito",
+      "Aircraft": "KI-61"
+    },
+    {
+      "Name": "Sakami",
+      "Aircraft": "KI-61"
+    },
+    {
+      "Name": "Shiina",
+      "Aircraft": "KI-61"
+    },
+    {
+      "Name": "Shimizu",
+      "Aircraft": "KI-61"
+    },
+    {
+      "Name": "Harada",
+      "Aircraft": "B5N"
+    },
+    {
+      "Name": "Kondo",
+      "Aircraft": "B5N"
+    },
+    {
+      "Name": "Miyamoto",
+      "Aircraft": "B5N"
+    },
+    {
+      "Name": "Naito",
+      "Aircraft": "B5N"
+    },
+    {
+      "Name": "Nomura",
+      "Aircraft": "B5N"
+    },
+    {
+      "Name": "Yamada",
+      "Aircraft": "B5N"
+    },
+    {
+      "Name": "Ando",
+      "Aircraft": "B6N"
+    },
+    {
+      "Name": "Aoki",
+      "Aircraft": "B6N"
+    },
+    {
+      "Name": "Endo",
+      "Aircraft": "B6N"
+    },
+    {
+      "Name": "Fukuda",
+      "Aircraft": "B6N"
+    },
+    {
+      "Name": "Ogawa",
+      "Aircraft": "B6N"
+    },
+    {
+      "Name": "Yoshida",
+      "Aircraft": "B6N"
+    },
+    {
+      "Name": "Ishikawa",
+      "Aircraft": "D3A"
+    },
+    {
+      "Name": "Morita",
+      "Aircraft": "D3A"
+    },
+    {
+      "Name": "Oyama",
+      "Aircraft": "D3A"
+    },
+    {
+      "Name": "Shibata",
+      "Aircraft": "D3A"
+    },
+    {
+      "Name": "Takahashi",
+      "Aircraft": "D3A"
+    },
+    {
+      "Name": "Ueda",
+      "Aircraft": "D3A"
+    },
+    {
+      "Name": "Hoshina",
+      "Aircraft": "G3M"
+    },
+    {
+      "Name": "Kisaki",
+      "Aircraft": "G3M"
+    },
+    {
+      "Name": "Kobayashi",
+      "Aircraft": "G3M"
+    },
+    {
+      "Name": "Kumagai",
+      "Aircraft": "G3M"
+    },
+    {
+      "Name": "Sawada",
+      "Aircraft": "G3M"
+    },
+    {
+      "Name": "Takarada",
+      "Aircraft": "G3M"
+    },
+    {
+      "Name": "Ichimura",
+      "Aircraft": "G4M"
+    },
+    {
+      "Name": "Kimito",
+      "Aircraft": "G4M"
+    },
+    {
+      "Name": "Maeda",
+      "Aircraft": "G4M"
+    },
+    {
+      "Name": "Minase",
+      "Aircraft": "G4M"
+    },
+    {
+      "Name": "Obuchi",
+      "Aircraft": "G4M"
+    },
+    {
+      "Name": "Tokaji",
+      "Aircraft": "G4M"
+    },
+    {
+      "Name": "Chuujou",
+      "Aircraft": "KI-48"
+    },
+    {
+      "Name": "Ishii",
+      "Aircraft": "KI-48"
+    },
+    {
+      "Name": "Narumiya",
+      "Aircraft": "KI-48"
+    },
+    {
+      "Name": "Ogami",
+      "Aircraft": "KI-48"
+    },
+    {
+      "Name": "Tsukishima",
+      "Aircraft": "KI-48"
+    },
+    {
+      "Name": "Goto",
+      "Aircraft": "KI-51"
+    },
+    {
+      "Name": "Ikeda",
+      "Aircraft": "KI-51"
+    },
+    {
+      "Name": "Matsui",
+      "Aircraft": "KI-51"
+    },
+    {
+      "Name": "Nakagawa",
+      "Aircraft": "KI-51"
+    },
+    {
+      "Name": "Nakano",
+      "Aircraft": "KI-51"
+    },
+    {
+      "Name": "Noguchi",
+      "Aircraft": "KI-51"
+    },
+    {
+      "Name": "Ito",
+      "Aircraft": "H8K"
+    },
+    {
+      "Name": "Kamijou",
+      "Aircraft": "H8K"
+    },
+    {
+      "Name": "Kawano",
+      "Aircraft": "H8K"
+    },
+    {
+      "Name": "Okamoto",
+      "Aircraft": "H8K"
+    },
+    {
+      "Name": "Otuska",
+      "Aircraft": "H8K"
+    },
+    {
+      "Name": "Watabe",
+      "Aircraft": "H8K"
+    },
+    {
+      "Name": "Arai",
+      "Aircraft": "N1KJ"
+    },
+    {
+      "Name": "Deruita",
+      "Aircraft": "N1KJ"
+    },
+    {
+      "Name": "Fujii",
+      "Aircraft": "N1KJ"
+    },
+    {
+      "Name": "Kikuchi",
+      "Aircraft": "N1KJ"
+    },
+    {
+      "Name": "Sakamoto",
+      "Aircraft": "N1KJ"
+    },
+    {
+      "Name": "Shigo",
+      "Aircraft": "N1KJ"
+    },
+    {
+      "Name": "Iro",
+      "Aircraft": "KI-84"
+    },
+    {
+      "Name": "Iwashita",
+      "Aircraft": "KI-84"
+    },
+    {
+      "Name": "Kariya",
+      "Aircraft": "KI-84"
+    },
+    {
+      "Name": "Sawamura",
+      "Aircraft": "KI-84"
+    },
+    {
+      "Name": "Shimazaki",
+      "Aircraft": "KI-84"
+    },
+    {
+      "Name": "Tachibana",
+      "Aircraft": "KI-84"
+    }
+  ]
+}
