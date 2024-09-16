@@ -1,4 +1,4 @@
-import {Component, inject, OnInit} from '@angular/core';
+import {Component, ElementRef, inject, OnInit, ViewChild} from '@angular/core';
 import {ReadFileService} from "../../services/read-file.service";
 import {AsyncPipe, JsonPipe, NgForOf, NgIf} from "@angular/common";
 import {Games} from "../../data/Games";
@@ -32,6 +32,9 @@ import {StateService} from "../../services/state.service";
   styleUrl: './select.component.css'
 })
 export class SelectComponent implements OnInit {
+  @ViewChild('select_campaign') selectCampaign?: ElementRef;
+  @ViewChild('select_option') selectOption?: ElementRef;
+  @ViewChild('button_randomise') buttonRandomise?: ElementRef;
   protected readonly Games = Games;
 
   fileService = inject(ReadFileService);
@@ -62,10 +65,16 @@ export class SelectComponent implements OnInit {
   selectedCampaignChanged(campaign: Campaign | string | null) {
     this.state.selectedCampaign.set(campaign as Campaign);
     this.state.selectedCampaignOptionItem.set(undefined);
+    setTimeout(() => {
+      this.selectOption?.nativeElement.scrollIntoView({ behavior: "smooth", block: "start" });
+    }, 100)
   }
 
   selectedCampaignOptionsChanged(campaignOptionItem: CampaignOptionItem | string | null) {
     this.state.selectedCampaignOptionItem.set(campaignOptionItem as CampaignOptionItem);
+    setTimeout(() => {
+      this.buttonRandomise?.nativeElement.scrollIntoView({ behavior: "smooth", block: "start" });
+    }, 100)
   }
 
   chooseGame(gameItem: any) {
